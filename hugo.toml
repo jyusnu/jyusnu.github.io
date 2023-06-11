@@ -1,4 +1,5 @@
-baseURL = 'http://jyusnu.github.io/'
+baseURL = 'https://jyusnu.github.io/'
 languageCode = 'ko-UTF-8'
 title = "Jaejun Yu's Web Site"
+theme = "PaperMod"
 
