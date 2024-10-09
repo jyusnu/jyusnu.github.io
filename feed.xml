@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Jaejun Yu&#x27;s homepage</title>
+    <link href="https://jyusnu.github.io/feed.xml" rel="self" />
+    <link href="https://jyusnu.github.io" />
+    <updated>2024-10-09T22:26:37+09:00</updated>
+    <author>
+        <name>Jaejun Yu</name>
+    </author>
+    <id>https://jyusnu.github.io</id>
+
+    <entry>
+        <title>New Homepage Construction</title>
+        <author>
+            <name>Jaejun Yu</name>
+        </author>
+        <link href="https://jyusnu.github.io/new-homepage-construction.html"/>
+        <id>https://jyusnu.github.io/new-homepage-construction.html</id>
+
+        <updated>2024-10-09T22:26:37+09:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
