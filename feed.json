@@ -9,59 +9,5 @@
         "name": "Jaejun Yu"
     },
     "items": [
-        {
-            "id": "https://jyusnu.github.io/blog/new-post/",
-            "url": "https://jyusnu.github.io/blog/new-post/",
-            "title": "new post",
-            "author": {
-                "name": "Jaejun Yu"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-10-15T06:23:13+09:00",
-            "date_modified": "2024-10-15T06:23:13+09:00"
-        },
-        {
-            "id": "https://jyusnu.github.io/blog/post-example/",
-            "url": "https://jyusnu.github.io/blog/post-example/",
-            "title": "Post example",
-            "summary": "another post message",
-            "content_html": "<p>another post message</p>\n<p> </p>",
-            "author": {
-                "name": "Jaejun Yu"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-10-15T05:59:06+09:00",
-            "date_modified": "2024-10-15T06:23:04+09:00"
-        },
-        {
-            "id": "https://jyusnu.github.io/blog/another-post/",
-            "url": "https://jyusnu.github.io/blog/another-post/",
-            "title": "Another post",
-            "summary": "any update?",
-            "content_html": "<p>any update? </p>\n<p> </p>",
-            "author": {
-                "name": "Jaejun Yu"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-10-15T05:32:56+09:00",
-            "date_modified": "2024-10-15T05:32:56+09:00"
-        },
-        {
-            "id": "https://jyusnu.github.io/blog/new-homepage-construction/",
-            "url": "https://jyusnu.github.io/blog/new-homepage-construction/",
-            "title": "New Homepage Construction",
-            "summary": "add a story",
-            "content_html": "<p>add a story</p>\n<p> </p>",
-            "author": {
-                "name": "Jaejun Yu"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-10-09T22:26:37+09:00",
-            "date_modified": "2024-10-15T05:29:00+09:00"
-        }
     ]
 }
