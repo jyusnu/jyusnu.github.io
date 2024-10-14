@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Jaejun Yu&#x27;s homepage",
+    "title": "Jaejun Yu",
     "description": "",
     "home_page_url": "https://jyusnu.github.io",
     "feed_url": "https://jyusnu.github.io/feed.json",
@@ -9,5 +9,17 @@
         "name": "Jaejun Yu"
     },
     "items": [
+        {
+            "id": "https://jyusnu.github.io/new-homepage-construction.html",
+            "url": "https://jyusnu.github.io/new-homepage-construction.html",
+            "title": "New Homepage Construction",
+            "author": {
+                "name": "Jaejun Yu"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-09T22:26:37+09:00",
+            "date_modified": "2024-10-09T22:26:37+09:00"
+        }
     ]
 }
