@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://jyusnu.github.io/another-post.html",
-            "url": "https://jyusnu.github.io/another-post.html",
+            "id": "https://jyusnu.github.io/another-post/",
+            "url": "https://jyusnu.github.io/another-post/",
             "title": "Another post",
             "summary": "any update?",
             "content_html": "<p>any update? </p>\n<p> </p>",
@@ -24,8 +24,8 @@
             "date_modified": "2024-10-15T05:32:56+09:00"
         },
         {
-            "id": "https://jyusnu.github.io/new-homepage-construction.html",
-            "url": "https://jyusnu.github.io/new-homepage-construction.html",
+            "id": "https://jyusnu.github.io/new-homepage-construction/",
+            "url": "https://jyusnu.github.io/new-homepage-construction/",
             "title": "New Homepage Construction",
             "summary": "add a story",
             "content_html": "<p>add a story</p>\n<p> </p>",
