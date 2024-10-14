@@ -3,19 +3,40 @@
     <title>Jaejun Yu</title>
     <link href="https://jyusnu.github.io/feed.xml" rel="self" />
     <link href="https://jyusnu.github.io" />
-    <updated>2024-10-15T05:32:56+09:00</updated>
+    <updated>2024-10-15T05:59:06+09:00</updated>
     <author>
         <name>Jaejun Yu</name>
     </author>
     <id>https://jyusnu.github.io</id>
 
     <entry>
+        <title>Post example</title>
+        <author>
+            <name>Jaejun Yu</name>
+        </author>
+        <link href="https://jyusnu.github.io/blog/post-example/"/>
+        <id>https://jyusnu.github.io/blog/post-example/</id>
+
+        <updated>2024-10-15T05:59:06+09:00</updated>
+            <summary>
+                <![CDATA[
+                    another post message
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>another post message</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Another post</title>
         <author>
             <name>Jaejun Yu</name>
         </author>
-        <link href="https://jyusnu.github.io/another-post/"/>
-        <id>https://jyusnu.github.io/another-post/</id>
+        <link href="https://jyusnu.github.io/blog/another-post/"/>
+        <id>https://jyusnu.github.io/blog/another-post/</id>
 
         <updated>2024-10-15T05:32:56+09:00</updated>
             <summary>
@@ -35,8 +56,8 @@
         <author>
             <name>Jaejun Yu</name>
         </author>
-        <link href="https://jyusnu.github.io/new-homepage-construction/"/>
-        <id>https://jyusnu.github.io/new-homepage-construction/</id>
+        <link href="https://jyusnu.github.io/blog/new-homepage-construction/"/>
+        <id>https://jyusnu.github.io/blog/new-homepage-construction/</id>
 
         <updated>2024-10-09T22:26:37+09:00</updated>
             <summary>
