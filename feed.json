@@ -10,16 +10,18 @@
     },
     "items": [
         {
-            "id": "https://jyusnu.github.io/new-homepage-construction/",
-            "url": "https://jyusnu.github.io/new-homepage-construction/",
+            "id": "https://jyusnu.github.io/new-homepage-construction.html",
+            "url": "https://jyusnu.github.io/new-homepage-construction.html",
             "title": "New Homepage Construction",
+            "summary": "add a story",
+            "content_html": "<p>add a story</p>\n<p> </p>",
             "author": {
                 "name": "Jaejun Yu"
             },
             "tags": [
             ],
             "date_published": "2024-10-09T22:26:37+09:00",
-            "date_modified": "2024-10-09T22:26:37+09:00"
+            "date_modified": "2024-10-15T05:29:00+09:00"
         }
     ]
 }
