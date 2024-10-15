@@ -3,14 +3,14 @@
     <title>Jaejun Yu</title>
     <link href="https://jyusnu.github.io/feed.xml" rel="self" />
     <link href="https://jyusnu.github.io" />
-    <updated>2024-10-15T10:55:10+09:00</updated>
+    <updated>2024-10-15T16:01:21+09:00</updated>
     <author>
         <name>Jaejun Yu</name>
     </author>
     <id>https://jyusnu.github.io</id>
 
     <entry>
-        <title>Post 01</title>
+        <title>Physics References</title>
         <author>
             <name>Jaejun Yu</name>
         </author>
@@ -18,7 +18,24 @@
         <id>https://jyusnu.github.io/blog/post-01/</id>
 
         <updated>2024-10-15T10:55:10+09:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    Space Groups: http://www-srs.caos.kun.nl/csecm/doc/index.html -- CSECM Space Group http://zebra.sci.ccny.cuny.edu/web/ -- Magnus, combinatorial group&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4>Space Groups:</h4>
+<ul class="disc">
+<li><a href="http://www-srs.caos.kun.nl/csecm/doc/index.html"  class="extlink extlink-icon-1 "  rel="self">http://www-srs.caos.kun.nl/csecm/doc/index.html</a> -- CSECM Space Group</li>
+<li><a href="http://zebra.sci.ccny.cuny.edu/web/"  class="extlink extlink-icon-1 "  rel="self">http://zebra.sci.ccny.cuny.edu/web/</a> -- Magnus, combinatorial group theory software project</li>
+</ul>
+<h4>Physical constants:</h4>
+<ul class="disc">
+<li><a href="http://www.astro.wisc.edu/~dolan/constants.html"  class="extlink extlink-icon-1 "  rel="self">http://www.astro.wisc.edu/~dolan/constants.html</a> -- Physical Constants and Astronomical Data</li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
     </entry>
 </feed>
