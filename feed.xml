@@ -3,7 +3,7 @@
     <title>Jaejun Yu</title>
     <link href="https://jyusnu.github.io/feed.xml" rel="self" />
     <link href="https://jyusnu.github.io" />
-    <updated>2024-10-15T16:01:21+09:00</updated>
+    <updated>2024-10-15T16:03:10+09:00</updated>
     <author>
         <name>Jaejun Yu</name>
     </author>
@@ -16,15 +16,19 @@
         </author>
         <link href="https://jyusnu.github.io/blog/post-01/"/>
         <id>https://jyusnu.github.io/blog/post-01/</id>
+        <media:content url="https://jyusnu.github.io/media/posts/2/9316524.webp" medium="image" />
+            <category term="Physics Data"/>
 
         <updated>2024-10-15T10:55:10+09:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://jyusnu.github.io/media/posts/2/9316524.webp" alt="" />
                     Space Groups: http://www-srs.caos.kun.nl/csecm/doc/index.html -- CSECM Space Group http://zebra.sci.ccny.cuny.edu/web/ -- Magnus, combinatorial group&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://jyusnu.github.io/media/posts/2/9316524.webp" class="type:primaryImage" alt="" /></p>
                 <h4>Space Groups:</h4>
 <ul class="disc">
 <li><a href="http://www-srs.caos.kun.nl/csecm/doc/index.html"  class="extlink extlink-icon-1 "  rel="self">http://www-srs.caos.kun.nl/csecm/doc/index.html</a> -- CSECM Space Group</li>
