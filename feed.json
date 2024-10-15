@@ -9,5 +9,17 @@
         "name": "Jaejun Yu"
     },
     "items": [
+        {
+            "id": "https://jyusnu.github.io/blog/post-01/",
+            "url": "https://jyusnu.github.io/blog/post-01/",
+            "title": "Post 01",
+            "author": {
+                "name": "Jaejun Yu"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-15T10:55:10+09:00",
+            "date_modified": "2024-10-15T10:55:10+09:00"
+        }
     ]
 }

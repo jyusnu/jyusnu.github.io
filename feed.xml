@@ -3,10 +3,22 @@
     <title>Jaejun Yu</title>
     <link href="https://jyusnu.github.io/feed.xml" rel="self" />
     <link href="https://jyusnu.github.io" />
-    <updated>1970-01-01T09:00:00+09:00</updated>
+    <updated>2024-10-15T10:55:10+09:00</updated>
     <author>
         <name>Jaejun Yu</name>
     </author>
     <id>https://jyusnu.github.io</id>
 
+    <entry>
+        <title>Post 01</title>
+        <author>
+            <name>Jaejun Yu</name>
+        </author>
+        <link href="https://jyusnu.github.io/blog/post-01/"/>
+        <id>https://jyusnu.github.io/blog/post-01/</id>
+
+        <updated>2024-10-15T10:55:10+09:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
