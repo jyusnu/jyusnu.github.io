@@ -14,7 +14,7 @@
             "url": "https://jyusnu.github.io/blog/post-01/",
             "title": "Physics References",
             "summary": "Space Groups: http://www-srs.caos.kun.nl/csecm/doc/index.html -- CSECM Space Group http://zebra.sci.ccny.cuny.edu/web/ -- Magnus, combinatorial group&hellip;",
-            "content_html": "<h4>Space Groups:</h4>\n<ul class=\"disc\">\n<li><a href=\"http://www-srs.caos.kun.nl/csecm/doc/index.html\"  class=\"extlink extlink-icon-1 \"  rel=\"self\">http://www-srs.caos.kun.nl/csecm/doc/index.html</a> -- CSECM Space Group</li>\n<li><a href=\"http://zebra.sci.ccny.cuny.edu/web/\"  class=\"extlink extlink-icon-1 \"  rel=\"self\">http://zebra.sci.ccny.cuny.edu/web/</a> -- Magnus, combinatorial group theory software project</li>\n</ul>\n<h4>Physical constants:</h4>\n<ul class=\"disc\">\n<li><a href=\"http://www.astro.wisc.edu/~dolan/constants.html\"  class=\"extlink extlink-icon-1 \"  rel=\"self\">http://www.astro.wisc.edu/~dolan/constants.html</a> -- Physical Constants and Astronomical Data</li>\n</ul>\n<p> </p>",
+            "content_html": "<h4><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jyusnu.github.io/media/posts/2/9316524-2.webp\" alt=\"\" width=\"450\" height=\"450\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jyusnu.github.io/media/posts/2/responsive/9316524-2-xs.webp 300w ,https://jyusnu.github.io/media/posts/2/responsive/9316524-2-sm.webp 480w ,https://jyusnu.github.io/media/posts/2/responsive/9316524-2-md.webp 768w ,https://jyusnu.github.io/media/posts/2/responsive/9316524-2-lg.webp 1024w\"></figure></h4>\n<h4>Space Groups:</h4>\n<ul class=\"disc\">\n<li><a href=\"http://www-srs.caos.kun.nl/csecm/doc/index.html\"  class=\"extlink extlink-icon-1 \"  rel=\"self\">http://www-srs.caos.kun.nl/csecm/doc/index.html</a> -- CSECM Space Group</li>\n<li><a href=\"http://zebra.sci.ccny.cuny.edu/web/\"  class=\"extlink extlink-icon-1 \"  rel=\"self\">http://zebra.sci.ccny.cuny.edu/web/</a> -- Magnus, combinatorial group theory software project</li>\n</ul>\n<h4>Physical constants:</h4>\n<ul class=\"disc\">\n<li><a href=\"http://www.astro.wisc.edu/~dolan/constants.html\"  class=\"extlink extlink-icon-1 \"  rel=\"self\">http://www.astro.wisc.edu/~dolan/constants.html</a> -- Physical Constants and Astronomical Data</li>\n</ul>\n<p> </p>",
             "image": "https://jyusnu.github.io/media/posts/2/9316524.webp",
             "author": {
                 "name": "Jaejun Yu"
@@ -23,7 +23,7 @@
                    "Physics Data"
             ],
             "date_published": "2024-10-15T10:55:10+09:00",
-            "date_modified": "2024-10-15T16:03:10+09:00"
+            "date_modified": "2024-10-15T16:04:48+09:00"
         }
     ]
 }
