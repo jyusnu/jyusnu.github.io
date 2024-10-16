@@ -3,12 +3,48 @@
     <title>Jaejun Yu</title>
     <link href="https://jyusnu.github.io/feed.xml" rel="self" />
     <link href="https://jyusnu.github.io" />
-    <updated>2024-10-16T17:14:44+09:00</updated>
+    <updated>2024-10-16T17:23:52+09:00</updated>
     <author>
         <name>Jaejun Yu</name>
     </author>
     <id>https://jyusnu.github.io</id>
 
+    <entry>
+        <title>Tutorials</title>
+        <author>
+            <name>Jaejun Yu</name>
+        </author>
+        <link href="https://jyusnu.github.io/blog/tutorials-2/"/>
+        <id>https://jyusnu.github.io/blog/tutorials-2/</id>
+        <media:content url="https://jyusnu.github.io/media/posts/24/books-0.jpg" medium="image" />
+            <category term="Lectures"/>
+
+        <updated>2024-10-16T17:23:52+09:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jyusnu.github.io/media/posts/24/books-0.jpg" alt="" />
+                    Tutorials "An Introduction to the LDA+DMFT Approach to Correlated Electron Systems", DMFT&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jyusnu.github.io/media/posts/24/books-0.jpg" class="type:primaryImage" alt="" /></p>
+                <p> </p>
+<h4>Tutorials</h4>
+<ul class="disc">
+<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-dmft-lda.2007.03.30.pdf"  class="extlink extlink-icon-1 "  rel="self">"An Introduction to the LDA+DMFT Approach to Correlated Electron Systems"</a>, <em>DMFT Workshop</em>, KIAS, Seoul, Korea, 30 March 2007</li>
+<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-LDAU.pdf"  class="extlink extlink-icon-1 "  rel="self">"A Short Introduction to the LDA+U Approach to Strongly Correlated Materials"</a>, <em>The 2nd KIAS Workshop on Electronic Structure Calculations</em>, KIAS, Seoul, Korea, May 2005</li>
+<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-magnetism.pdf"  class="extlink extlink-icon-1 "  rel="self">"Introduction to Magnetism and Magnetic Materials"</a>, <em>2005 KIAS-SNU Physics Winter Camp</em>, 5-18 January 2005</li>
+<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-DFT-2004.10.pdf"  class="extlink extlink-icon-1 "  rel="self">"A Short Lecture on Electronic A Short Lecture on Electronic Structure Theory for Experimental Condensed Matter Physicists"</a>, <em>2004 Fall KPS Meeting</em>, Jeju, Korea, 21 October 2004</li>
+<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-LDA.pdf"  class="extlink extlink-icon-1 "  rel="self">"Local Density Functional Theory: Basics and its Applications"</a>, KISTI Tutorial Lecture, 31 August 2001</li>
+</ul>
+<h4>Articles</h4>
+<ul class="disc">
+<li><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self">계산물리적</a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self"> </a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self">방법을</a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self"> </a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self">통한</a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self"> </a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self">고체의</a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self"> </a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self">물성연구</a> ("물리학과 첨단기술", 1999. 10.)</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lectures</title>
         <author>
