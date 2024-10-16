@@ -10,6 +10,38 @@
     },
     "items": [
         {
+            "id": "https://jyusnu.github.io/blog/editors-and-ide/",
+            "url": "https://jyusnu.github.io/blog/editors-and-ide/",
+            "title": "Editors and IDE",
+            "summary": "GNU Emacs is a self-documented editor for the advanced programmer. For more&hellip;",
+            "content_html": "<p> </p>\n<h4>Emacs</h4>\n<p><br><a href=\"http://www.gnu.org/software/emacs/emacs.html\"  class=\"extlink extlink-icon-1 \"  >GNU Emacs</a> is a self-documented editor for the advanced programmer. For more information, check the related pages:</p>\n<ul class=\"disc\">\n<li><a href=\"http://www.emacswiki.org/cgi-bin/wiki.pl\"  class=\"extlink extlink-icon-1 \"  >Emacs Site-Map</a> -- a wiki-based site for Emacs</li>\n<li><a href=\"http://www.gnu.org/software/emacs/windows/ntemacs.html\"  class=\"extlink extlink-icon-1 \"  >GNU Emacs for Windows</a> --</li>\n<li><a href=\"http://www.emacswiki.org/cgi-bin/wiki.pl?OnlineResources\"  class=\"extlink extlink-icon-1 \"  >On-line resources</a> -- on-line resources for the GNU Emacs</li>\n</ul>\n<h4>VS code</h4>\n<ul>\n<li><a href=\"https://code.visualstudio.com\"  class=\"extlink extlink-icon-1 \"  >https://code.visualstudio.com</a></li>\n<li>Code with GitHub Copilot </li>\n</ul>\n<h4>Zed</h4>\n<ul>\n<li><a href=\"https://zed.dev\"  class=\"extlink extlink-icon-1 \"  >https://zed.dev</a></li>\n<li><span data-br=\":R5k57qbt6ja:\" data-brr=\"1\">The editor for what's next</span></li>\n</ul>",
+            "image": "https://jyusnu.github.io/media/posts/21/vscode.jpg",
+            "author": {
+                "name": "Jaejun Yu"
+            },
+            "tags": [
+                   "Codes and tools"
+            ],
+            "date_published": "2024-10-16T16:46:18+09:00",
+            "date_modified": "2024-10-16T16:47:38+09:00"
+        },
+        {
+            "id": "https://jyusnu.github.io/blog/latex-2/",
+            "url": "https://jyusnu.github.io/blog/latex-2/",
+            "title": "LaTeX",
+            "summary": "LaTeX Tips General LaTeX tips and tricks: http://www.kronto.org/thesis/tips/index.html Best websites: CTAN: The&hellip;",
+            "content_html": "<h4>LaTeX Tips</h4>\n<ul class=\"disc\">\n<li>General LaTeX tips and tricks: <a href=\"http://www.kronto.org/thesis/tips/index.html\"  class=\"extlink extlink-icon-1 \"  >http://www.kronto.org/thesis/tips/index.html</a></li>\n<li>Best websites: <a href=\"http://www.ctan.org/\"  class=\"extlink extlink-icon-1 \"  >CTAN: The Comprehensive TeX Archive Network</a> and <a href=\"http://www.ctan.org/search/?action=/index.html\"  class=\"extlink extlink-icon-1 \"  >CTAN Search Page</a></li>\n<li>LaTeX distribution: In linux, texlive, tetex; in windows, miktex</li>\n<li>Editor: <a href=\"http://www.gnu.org/software/emacs/emacs.html\"  class=\"extlink extlink-icon-1 \"  >GNU Emacs</a> with <a href=\"http://www.gnu.org/software/auctex/\"  class=\"extlink extlink-icon-1 \"  >AUCTeX</a>, or use <a href=\"http://kile.sourceforge.net/\"  class=\"extlink extlink-icon-1 \"  >Kile</a> in Linux. In windows, try led</li>\n<li>Drawing program: <a href=\"http://www.xfig.org/\"  class=\"extlink extlink-icon-1 \"  >xfig</a> or <a href=\"http://www.gnome.org/projects/dia/\"  class=\"extlink extlink-icon-1 \"  >Dia</a> to generation eps or pdf figures</li>\n<li>Creating graphs: <a href=\"http://www.gnuplot.info/\"  class=\"extlink extlink-icon-1 \"  >gnuplot</a> or <a href=\"http://gri.sourceforge.net/\"  class=\"extlink extlink-icon-1 \"  >gri graphing language</a> as an alternative</li>\n</ul>\n<p> </p>",
+            "image": "https://jyusnu.github.io/media/posts/20/latex.png",
+            "author": {
+                "name": "Jaejun Yu"
+            },
+            "tags": [
+                   "Codes and tools"
+            ],
+            "date_published": "2024-10-16T16:42:02+09:00",
+            "date_modified": "2024-10-16T16:47:44+09:00"
+        },
+        {
             "id": "https://jyusnu.github.io/blog/post-01/",
             "url": "https://jyusnu.github.io/blog/post-01/",
             "title": "Physics References",

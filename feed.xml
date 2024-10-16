@@ -3,12 +3,86 @@
     <title>Jaejun Yu</title>
     <link href="https://jyusnu.github.io/feed.xml" rel="self" />
     <link href="https://jyusnu.github.io" />
-    <updated>2024-10-16T12:53:38+09:00</updated>
+    <updated>2024-10-16T16:47:44+09:00</updated>
     <author>
         <name>Jaejun Yu</name>
     </author>
     <id>https://jyusnu.github.io</id>
 
+    <entry>
+        <title>Editors and IDE</title>
+        <author>
+            <name>Jaejun Yu</name>
+        </author>
+        <link href="https://jyusnu.github.io/blog/editors-and-ide/"/>
+        <id>https://jyusnu.github.io/blog/editors-and-ide/</id>
+        <media:content url="https://jyusnu.github.io/media/posts/21/vscode.jpg" medium="image" />
+            <category term="Codes and tools"/>
+
+        <updated>2024-10-16T16:46:18+09:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jyusnu.github.io/media/posts/21/vscode.jpg" alt="" />
+                    GNU Emacs is a self-documented editor for the advanced programmer. For more&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jyusnu.github.io/media/posts/21/vscode.jpg" class="type:primaryImage" alt="" /></p>
+                <p> </p>
+<h4>Emacs</h4>
+<p><br><a href="http://www.gnu.org/software/emacs/emacs.html"  class="extlink extlink-icon-1 "  >GNU Emacs</a> is a self-documented editor for the advanced programmer. For more information, check the related pages:</p>
+<ul class="disc">
+<li><a href="http://www.emacswiki.org/cgi-bin/wiki.pl"  class="extlink extlink-icon-1 "  >Emacs Site-Map</a> -- a wiki-based site for Emacs</li>
+<li><a href="http://www.gnu.org/software/emacs/windows/ntemacs.html"  class="extlink extlink-icon-1 "  >GNU Emacs for Windows</a> --</li>
+<li><a href="http://www.emacswiki.org/cgi-bin/wiki.pl?OnlineResources"  class="extlink extlink-icon-1 "  >On-line resources</a> -- on-line resources for the GNU Emacs</li>
+</ul>
+<h4>VS code</h4>
+<ul>
+<li><a href="https://code.visualstudio.com"  class="extlink extlink-icon-1 "  >https://code.visualstudio.com</a></li>
+<li>Code with GitHub Copilot </li>
+</ul>
+<h4>Zed</h4>
+<ul>
+<li><a href="https://zed.dev"  class="extlink extlink-icon-1 "  >https://zed.dev</a></li>
+<li><span data-br=":R5k57qbt6ja:" data-brr="1">The editor for what's next</span></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>LaTeX</title>
+        <author>
+            <name>Jaejun Yu</name>
+        </author>
+        <link href="https://jyusnu.github.io/blog/latex-2/"/>
+        <id>https://jyusnu.github.io/blog/latex-2/</id>
+        <media:content url="https://jyusnu.github.io/media/posts/20/latex.png" medium="image" />
+            <category term="Codes and tools"/>
+
+        <updated>2024-10-16T16:42:02+09:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jyusnu.github.io/media/posts/20/latex.png" alt="" />
+                    LaTeX Tips General LaTeX tips and tricks: http://www.kronto.org/thesis/tips/index.html Best websites: CTAN: The&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jyusnu.github.io/media/posts/20/latex.png" class="type:primaryImage" alt="" /></p>
+                <h4>LaTeX Tips</h4>
+<ul class="disc">
+<li>General LaTeX tips and tricks: <a href="http://www.kronto.org/thesis/tips/index.html"  class="extlink extlink-icon-1 "  >http://www.kronto.org/thesis/tips/index.html</a></li>
+<li>Best websites: <a href="http://www.ctan.org/"  class="extlink extlink-icon-1 "  >CTAN: The Comprehensive TeX Archive Network</a> and <a href="http://www.ctan.org/search/?action=/index.html"  class="extlink extlink-icon-1 "  >CTAN Search Page</a></li>
+<li>LaTeX distribution: In linux, texlive, tetex; in windows, miktex</li>
+<li>Editor: <a href="http://www.gnu.org/software/emacs/emacs.html"  class="extlink extlink-icon-1 "  >GNU Emacs</a> with <a href="http://www.gnu.org/software/auctex/"  class="extlink extlink-icon-1 "  >AUCTeX</a>, or use <a href="http://kile.sourceforge.net/"  class="extlink extlink-icon-1 "  >Kile</a> in Linux. In windows, try led</li>
+<li>Drawing program: <a href="http://www.xfig.org/"  class="extlink extlink-icon-1 "  >xfig</a> or <a href="http://www.gnome.org/projects/dia/"  class="extlink extlink-icon-1 "  >Dia</a> to generation eps or pdf figures</li>
+<li>Creating graphs: <a href="http://www.gnuplot.info/"  class="extlink extlink-icon-1 "  >gnuplot</a> or <a href="http://gri.sourceforge.net/"  class="extlink extlink-icon-1 "  >gri graphing language</a> as an alternative</li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Physics References</title>
         <author>
