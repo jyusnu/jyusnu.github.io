@@ -5,10 +5,28 @@
     "home_page_url": "https://jyusnu.github.io",
     "feed_url": "https://jyusnu.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://jyusnu.github.io/media/website/JJ-face-2.jpeg",
     "author": {
         "name": "Jaejun Yu"
     },
     "items": [
+        {
+            "id": "https://jyusnu.github.io/blog/the-kmaegeojin/",
+            "url": "https://jyusnu.github.io/blog/the-kmaegeojin/",
+            "title": "The-K매거진",
+            "summary": "배움의 새싹 &gt; 교육 돋보기 우리 학교와 교육의 긍정적인 변화를 이끄는 전문가 인터뷰",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/okQCWI5V-eU\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<h5 class=\"section_title\"><strong>배움의 새싹</strong> &gt; 교육 돋보기   우리 학교와 교육의 긍정적인 변화를 이끄는 전문가 인터뷰</h5>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "image": "https://jyusnu.github.io/media/posts/25/Screenshot-2024-10-16-at-10.29.19-PM.png",
+            "author": {
+                "name": "Jaejun Yu"
+            },
+            "tags": [
+                   "Social Media",
+                   "Education"
+            ],
+            "date_published": "2024-10-16T22:26:40+09:00",
+            "date_modified": "2024-10-16T22:29:39+09:00"
+        },
         {
             "id": "https://jyusnu.github.io/blog/tutorials-2/",
             "url": "https://jyusnu.github.io/blog/tutorials-2/",
@@ -38,7 +56,7 @@
                    "Lectures"
             ],
             "date_published": "2024-10-16T17:14:44+09:00",
-            "date_modified": "2024-10-16T17:14:44+09:00"
+            "date_modified": "2024-10-16T17:24:53+09:00"
         },
         {
             "id": "https://jyusnu.github.io/blog/research-summary/",

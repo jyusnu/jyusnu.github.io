@@ -3,12 +3,41 @@
     <title>Jaejun Yu</title>
     <link href="https://jyusnu.github.io/feed.xml" rel="self" />
     <link href="https://jyusnu.github.io" />
-    <updated>2024-10-16T17:23:52+09:00</updated>
+    <updated>2024-10-16T22:29:39+09:00</updated>
     <author>
         <name>Jaejun Yu</name>
     </author>
     <id>https://jyusnu.github.io</id>
 
+    <entry>
+        <title>The-K매거진</title>
+        <author>
+            <name>Jaejun Yu</name>
+        </author>
+        <link href="https://jyusnu.github.io/blog/the-kmaegeojin/"/>
+        <id>https://jyusnu.github.io/blog/the-kmaegeojin/</id>
+        <media:content url="https://jyusnu.github.io/media/posts/25/Screenshot-2024-10-16-at-10.29.19-PM.png" medium="image" />
+            <category term="Social Media"/>
+            <category term="Education"/>
+
+        <updated>2024-10-16T22:26:40+09:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jyusnu.github.io/media/posts/25/Screenshot-2024-10-16-at-10.29.19-PM.png" alt="" />
+                    배움의 새싹 &gt; 교육 돋보기 우리 학교와 교육의 긍정적인 변화를 이끄는 전문가 인터뷰
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jyusnu.github.io/media/posts/25/Screenshot-2024-10-16-at-10.29.19-PM.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/okQCWI5V-eU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<h5 class="section_title"><strong>배움의 새싹</strong> &gt; 교육 돋보기   우리 학교와 교육의 긍정적인 변화를 이끄는 전문가 인터뷰</h5>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tutorials</title>
         <author>
