@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://jyusnu.github.io/blog/2024-kias-snu-physics-winter-camp/",
+            "url": "https://jyusnu.github.io/blog/2024-kias-snu-physics-winter-camp/",
+            "title": "2024 KIAS-SNU Physics Winter Camp",
+            "summary": "2024 KIAS-SNU Physics Winter Camp [fi=link] http://events.kias.re.kr/h/winter2024./?pageNo=5736 KIAS-SNU Physics Winter Camp는 물리학을&hellip;",
+            "content_html": "<h2>2024 KIAS-SNU Physics Winter Camp</h2>\n<p>[fi=link] <a target=\"_blank\" rel=\"noopener noreferrer\">http://events.kias.re.kr/h/winter2024./?pageNo=5736</a></p>\n<p>KIAS-SNU Physics Winter Camp는 물리학을 전공하는 혹은 전공하고자 하는 대학 3~4 학년생, 졸업생, 그리고 대학원 과정을 이제 막 시작한 학생들을 위한 겨울학교입니다. 올해의 캠프에서는 양자 중력의 사실상 유일한 토이 모델인 Matrix Model, 초기 우주에서의 별과 은하에 대한 이야기를 비롯하여 네 가지의 긴 강의와 2024년 노벨 물리학상 해설을 포함한 콜로키움 등으로 구성되어 있습니다. 학생들의 적극적인 참여가 항상 놀라운 Group Project 역시 진행될 계획입니다.</p>\n<h4><strong>Lectures</strong></h4>\n<ul>\n<li>Instantons: Quantum Fluctuations and Gravity (Viatcheslav Mukhanov,, LMU &amp; KIAS)</li>\n<li>Physics of 2D Materials: Superconductivity, Magnetism, and Topology (유재준, 서울대)</li>\n<li>Introduction to Random Matrix Models (이성재, KIAS)</li>\n<li>Early Universe Cosmology: From Structure Formation to JWST's Early Galaxies (전명원, 경희대)</li>\n</ul>\n<h4><strong>Colloquia</strong></h4>\n<ul>\n<li>2024 Nobel Physics Prize: Machine Learning and Physics (조정효, 서울대)</li>\n<li>2024 Nobel Chemistry Prize: Proteins' secrets revealed through computing and artificial intelligence (이상민, 포항공대)</li>\n<li>Real Quantum Computers: Present and Future (김도헌, 서울대)</li>\n</ul>\n<h4><strong>조직위원</strong></h4>\n<ul>\n<li>유재준, 박철환 (서울대)</li>\n<li>이필진, 이성재 (KIAS)</li>\n</ul>\n<p> </p>",
+            "image": "https://jyusnu.github.io/media/posts/26/Screenshot-2024-10-17-at-11.48.31-AM.png",
+            "author": {
+                "name": "Jaejun Yu"
+            },
+            "tags": [
+                   "Lectures",
+                   "Education"
+            ],
+            "date_published": "2024-10-17T11:54:34+09:00",
+            "date_modified": "2024-10-17T11:54:34+09:00"
+        },
+        {
             "id": "https://jyusnu.github.io/blog/the-kmaegeojin/",
             "url": "https://jyusnu.github.io/blog/the-kmaegeojin/",
             "title": "The-K매거진",
