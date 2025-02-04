@@ -3,12 +3,32 @@
     <title>Jaejun Yu</title>
     <link href="https://jyusnu.github.io/feed.xml" rel="self" />
     <link href="https://jyusnu.github.io" />
-    <updated>2024-10-20T23:44:34+09:00</updated>
+    <updated>2025-02-04T13:41:52+09:00</updated>
     <author>
         <name>Jaejun Yu</name>
     </author>
     <id>https://jyusnu.github.io</id>
 
+    <entry>
+        <title>[SNUON] 서울대학교 예비대학 인트로 특강 2025-01</title>
+        <author>
+            <name>Jaejun Yu</name>
+        </author>
+        <link href="https://jyusnu.github.io/blog/snuon-seouldaehaggyo-yebidaehag-inteuro-teuggang-2025-01/"/>
+        <id>https://jyusnu.github.io/blog/snuon-seouldaehaggyo-yebidaehag-inteuro-teuggang-2025-01/</id>
+        <media:content url="https://jyusnu.github.io/media/posts/27/Intro_physics_lecture_img-2.jpg" medium="image" />
+            <category term="Education"/>
+
+        <updated>2025-02-04T13:41:52+09:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jyusnu.github.io/media/posts/27/Intro_physics_lecture_img-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__video"><video loading="lazy" width="694" height="347" style="width: 828px; height: 410px;" controls="controls" data-mce-fragment="1" poster="https://jyusnu.github.io/media/posts/27/Intro_physics_lecture_img.jpg">
+<source src="https://drive.google.com/file/d/1-F4x4ENNkabQ-FwYrlVtBYw92RSHXAHp/view?usp=sharing" /><source src="https://etl.snu.ac.kr/courses/6791d790c9406504f952838f" /></video></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2024 KIAS-SNU Physics Winter Camp</title>
         <author>
