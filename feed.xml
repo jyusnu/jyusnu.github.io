@@ -41,7 +41,7 @@
             <category term="Education"/>
 
         <updated>2024-10-17T11:54:34+09:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://jyusnu.github.io/media/posts/26/Screenshot-2024-10-17-at-11.48.31-AM.png" alt="" />
                     2024 KIAS-SNU Physics Winter Camp [fi=link] http://events.kias.re.kr/h/winter2024./?pageNo=5736 KIAS-SNU Physics Winter Camp는 물리학을&hellip;
@@ -87,7 +87,7 @@
             <category term="Education"/>
 
         <updated>2024-10-16T22:26:40+09:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://jyusnu.github.io/media/posts/25/Screenshot-2024-10-16-at-10.29.19-PM.png" alt="" />
                     배움의 새싹 &gt; 교육 돋보기 우리 학교와 교육의 긍정적인 변화를 이끄는 전문가 인터뷰
@@ -115,7 +115,7 @@
             <category term="Lectures"/>
 
         <updated>2024-10-16T17:23:52+09:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://jyusnu.github.io/media/posts/24/books-0.jpg" alt="" />
                     Tutorials "An Introduction to the LDA+DMFT Approach to Correlated Electron Systems", DMFT&hellip;
@@ -271,7 +271,7 @@
             <category term="Research"/>
 
         <updated>2024-10-16T16:51:14+09:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://jyusnu.github.io/media/posts/22/research-summary-0.jpg" alt="" />
                     [fi=feather] Research Summary (old version)
@@ -303,7 +303,7 @@
             <category term="Codes and tools"/>
 
         <updated>2024-10-16T16:46:18+09:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://jyusnu.github.io/media/posts/21/vscode.jpg" alt="" />
                     GNU Emacs is a self-documented editor for the advanced programmer. For more&hellip;
@@ -344,7 +344,7 @@
             <category term="Codes and tools"/>
 
         <updated>2024-10-16T16:42:02+09:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://jyusnu.github.io/media/posts/20/latex.png" alt="" />
                     LaTeX Tips General LaTeX tips and tricks: http://www.kronto.org/thesis/tips/index.html Best websites: CTAN: The&hellip;
@@ -377,7 +377,7 @@
             <category term="Physics Data"/>
 
         <updated>2024-10-15T10:55:10+09:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://jyusnu.github.io/media/posts/2/9316524.webp" alt="" />
                     Space Groups: http://www-srs.caos.kun.nl/csecm/doc/index.html -- CSECM Space Group http://zebra.sci.ccny.cuny.edu/web/ -- Magnus, combinatorial group&hellip;
