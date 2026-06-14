@@ -44,14 +44,14 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://jyusnu.github.io/media/posts/26/Screenshot-2024-10-17-at-11.48.31-AM.png" alt="" />
-                    2024 KIAS-SNU Physics Winter Camp [fi=link] http://events.kias.re.kr/h/winter2024./?pageNo=5736 KIAS-SNU Physics Winter Camp는 물리학을&hellip;
+                    2024 KIAS-SNU Physics Winter Camp <svg class="fi fi-link" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><use href="https://jyusnu.github.io/media/plugins/featherIcons/feather-sprite.svg#link" /></svg> http://events.kias.re.kr/h/winter2024./?pageNo=5736 KIAS-SNU Physics Winter Camp는 물리학을&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://jyusnu.github.io/media/posts/26/Screenshot-2024-10-17-at-11.48.31-AM.png" class="type:primaryImage" alt="" /></p>
                 <h2>2024 KIAS-SNU Physics Winter Camp</h2>
-<p>[fi=link] <a target="_blank" rel="noopener noreferrer">http://events.kias.re.kr/h/winter2024./?pageNo=5736</a></p>
+<p><svg class="fi fi-link" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><use href="https://jyusnu.github.io/media/plugins/featherIcons/feather-sprite.svg#link" /></svg> <a target="_blank" rel="noopener noreferrer">http://events.kias.re.kr/h/winter2024./?pageNo=5736</a></p>
 <p>KIAS-SNU Physics Winter Camp는 물리학을 전공하는 혹은 전공하고자 하는 대학 3~4 학년생, 졸업생, 그리고 대학원 과정을 이제 막 시작한 학생들을 위한 겨울학교입니다. 올해의 캠프에서는 양자 중력의 사실상 유일한 토이 모델인 Matrix Model, 초기 우주에서의 별과 은하에 대한 이야기를 비롯하여 네 가지의 긴 강의와 2024년 노벨 물리학상 해설을 포함한 콜로키움 등으로 구성되어 있습니다. 학생들의 적극적인 참여가 항상 놀라운 Group Project 역시 진행될 계획입니다.</p>
 <h4><strong>Lectures</strong></h4>
 <ul>
@@ -127,15 +127,15 @@
                 <p> </p>
 <h4>Tutorials</h4>
 <ul class="disc">
-<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-dmft-lda.2007.03.30.pdf"  class="extlink extlink-icon-1 "  rel="self">"An Introduction to the LDA+DMFT Approach to Correlated Electron Systems"</a>, <em>DMFT Workshop</em>, KIAS, Seoul, Korea, 30 March 2007</li>
-<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-LDAU.pdf"  class="extlink extlink-icon-1 "  rel="self">"A Short Introduction to the LDA+U Approach to Strongly Correlated Materials"</a>, <em>The 2nd KIAS Workshop on Electronic Structure Calculations</em>, KIAS, Seoul, Korea, May 2005</li>
-<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-magnetism.pdf"  class="extlink extlink-icon-1 "  rel="self">"Introduction to Magnetism and Magnetic Materials"</a>, <em>2005 KIAS-SNU Physics Winter Camp</em>, 5-18 January 2005</li>
-<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-DFT-2004.10.pdf"  class="extlink extlink-icon-1 "  rel="self">"A Short Lecture on Electronic A Short Lecture on Electronic Structure Theory for Experimental Condensed Matter Physicists"</a>, <em>2004 Fall KPS Meeting</em>, Jeju, Korea, 21 October 2004</li>
-<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-LDA.pdf"  class="extlink extlink-icon-1 "  rel="self">"Local Density Functional Theory: Basics and its Applications"</a>, KISTI Tutorial Lecture, 31 August 2001</li>
+<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-dmft-lda.2007.03.30.pdf"  class="extlink extlink-icon-1"  rel="self">"An Introduction to the LDA+DMFT Approach to Correlated Electron Systems"</a>, <em>DMFT Workshop</em>, KIAS, Seoul, Korea, 30 March 2007</li>
+<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-LDAU.pdf"  class="extlink extlink-icon-1"  rel="self">"A Short Introduction to the LDA+U Approach to Strongly Correlated Materials"</a>, <em>The 2nd KIAS Workshop on Electronic Structure Calculations</em>, KIAS, Seoul, Korea, May 2005</li>
+<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-magnetism.pdf"  class="extlink extlink-icon-1"  rel="self">"Introduction to Magnetism and Magnetic Materials"</a>, <em>2005 KIAS-SNU Physics Winter Camp</em>, 5-18 January 2005</li>
+<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-DFT-2004.10.pdf"  class="extlink extlink-icon-1"  rel="self">"A Short Lecture on Electronic A Short Lecture on Electronic Structure Theory for Experimental Condensed Matter Physicists"</a>, <em>2004 Fall KPS Meeting</em>, Jeju, Korea, 21 October 2004</li>
+<li><a href="http://phya.snu.ac.kr/jyu/FrontPage/resources/tutorial-YuJ-LDA.pdf"  class="extlink extlink-icon-1"  rel="self">"Local Density Functional Theory: Basics and its Applications"</a>, KISTI Tutorial Lecture, 31 August 2001</li>
 </ul>
 <h4>Articles</h4>
 <ul class="disc">
-<li><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self">계산물리적</a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self"> </a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self">방법을</a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self"> </a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self">통한</a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self"> </a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self">고체의</a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self"> </a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1 "  rel="self">물성연구</a> ("물리학과 첨단기술", 1999. 10.)</li>
+<li><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1"  rel="self">계산물리적</a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1"  rel="self"> </a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1"  rel="self">방법을</a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1"  rel="self"> </a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1"  rel="self">통한</a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1"  rel="self"> </a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1"  rel="self">고체의</a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1"  rel="self"> </a><a href="http://phya.snu.ac.kr/~jyu/misc/computational-physics.html"  class="extlink extlink-icon-1"  rel="self">물성연구</a> ("물리학과 첨단기술", 1999. 10.)</li>
 </ul>
             ]]>
         </content>
@@ -157,7 +157,7 @@
                     <p><img src="https://jyusnu.github.io/media/posts/23/lectures-0.jpg" class="type:primaryImage" alt="" /></p>
                 <p> </p>
 <ul class="disc">
-<li><a href="http://phya.snu.ac.kr/jyu/2016.06.10-MS-Orientation/assets/player/KeynoteDHTMLPlayer.html#0"  class="extlink extlink-icon-1 "  >대학원연구입문 강의 자료</a> (2016.06.10 강의)</li>
+<li><a href="http://phya.snu.ac.kr/jyu/2016.06.10-MS-Orientation/assets/player/KeynoteDHTMLPlayer.html#0"  class="extlink extlink-icon-1"  >대학원연구입문 강의 자료</a> (2016.06.10 강의)</li>
 </ul>
 <p> </p>
 <hr>
@@ -166,7 +166,7 @@
 <li>과목 번호: 046.005 (001)</li>
 <li>과목명 및 학점: 미시세계와 거시세계, 3학점</li>
 <li>담당 교수: 유재준 (56–508, 02-880–8934, jyu@snu.ac.kr)</li>
-<li>과목 홈페이지: <a href="http://phya.snu.ac.kr/jyu/mima-18/"  class="extlink extlink-icon-1 "  rel="self">http://phya.snu.ac.kr/jyu/mima-18/</a></li>
+<li>과목 홈페이지: <a href="http://phya.snu.ac.kr/jyu/mima-18/"  class="extlink extlink-icon-1"  rel="self">http://phya.snu.ac.kr/jyu/mima-18/</a></li>
 </ul>
 <hr>
 <h4>기본물리수학 (2018학년도 2학기)</h4>
@@ -174,7 +174,7 @@
 <li>과목 번호: 3348.203 (001)</li>
 <li>과목명 및 학점: 기본물리수학, 3학점</li>
 <li>담당 교수: 유재준 (56–508, 02-880–8934, jyu@snu.ac.kr)</li>
-<li>과목 홈페이지: <a href="https://jyu8934.gitlab.io/mathphys1/"  class="extlink extlink-icon-1 "  >http://phya.snu.ac.kr/jyu/mp-18.html</a></li>
+<li>과목 홈페이지: <a href="https://jyu8934.gitlab.io/mathphys1/"  class="extlink extlink-icon-1"  >http://phya.snu.ac.kr/jyu/mp-18.html</a></li>
 </ul>
 <hr>
 <p> </p>
@@ -185,7 +185,7 @@
 <li>과목 번호: 027.004</li>
 <li>과목명 및 학점: 미시세계와 거시세계, 3학점</li>
 <li>담당 교수: 유재준 (56–508, 02-880–8934, jyu@snu.ac.kr)</li>
-<li>과목 홈페이지: <a href="http://phya.snu.ac.kr/jyu/mima-17/"  class="extlink extlink-icon-1 "  rel="self">http://phya.snu.ac.kr/jyu/mima-17/</a></li>
+<li>과목 홈페이지: <a href="http://phya.snu.ac.kr/jyu/mima-17/"  class="extlink extlink-icon-1"  rel="self">http://phya.snu.ac.kr/jyu/mima-17/</a></li>
 <li>담당 조교: 김태영&lt;tykim0922@gmail.com&gt;&lt;/tykim0922@gmail.com&gt;</li>
 <li>강의실 및 강의시간: 500동 L309호, 월수 오후 2:00 - 3:15</li>
 </ul>
@@ -195,7 +195,7 @@
 <li>과목 번호: 027.004</li>
 <li>과목명 및 학점: 미시세계와 거시세계, 3학점</li>
 <li>담당 교수: 유재준 (56–508, 02-880–8934, jyu@snu.ac.kr)</li>
-<li>과목 홈페이지: <a href="http://phya.snu.ac.kr/jyu/mima-16/"  class="extlink extlink-icon-1 "  rel="self">http://phya.snu.ac.kr/jyu/mima-16/</a></li>
+<li>과목 홈페이지: <a href="http://phya.snu.ac.kr/jyu/mima-16/"  class="extlink extlink-icon-1"  rel="self">http://phya.snu.ac.kr/jyu/mima-16/</a></li>
 <li>담당 조교: 박성우 &lt;kunsung5@snu.ac.kr&gt;&lt;/kunsung5@snu.ac.kr&gt;</li>
 <li>강의실 및 강의시간: 500동 L309호, 월수 오후 2:00 - 3:15</li>
 </ul>
@@ -205,12 +205,12 @@
 <li>과목 번호: 027.004</li>
 <li>과목명 및 학점: 미시세계와 거시세계, 3학점</li>
 <li>담당 교수: 유재준 (56–508, 02-880–8934, jyu@snu.ac.kr)</li>
-<li>과목 홈페이지: <a href="http://phya.snu.ac.kr/jyu/mima-14/"  class="extlink extlink-icon-1 "  rel="self">http://phya.snu.ac.kr/jyu/mima–14/</a></li>
+<li>과목 홈페이지: <a href="http://phya.snu.ac.kr/jyu/mima-14/"  class="extlink extlink-icon-1"  rel="self">http://phya.snu.ac.kr/jyu/mima–14/</a></li>
 <li>담당 조교: <a href="mailto:sudaku@snu.ac.kr" rel="self">박창휘</a>, <a href="mailto:crn1860@gmail.com" rel="self">강우영</a></li>
 <li>강의실 및 강의시간: 500동 L306호, 화목 오전 9:30 - 10:45</li>
 </ul>
 <hr>
-<h4><br><br><a href="http://cqmp.snu.ac.kr/jyu/apc2010/"  class="extlink extlink-icon-1 "  rel="self">Topics in Advanced Parallel Computation 1</a> - 고급병렬계산특강1<br>Sping 2010</h4>
+<h4><br><br><a href="http://cqmp.snu.ac.kr/jyu/apc2010/"  class="extlink extlink-icon-1"  rel="self">Topics in Advanced Parallel Computation 1</a> - 고급병렬계산특강1<br>Sping 2010</h4>
 <ul class="disc">
 <li>Course Title: Topics in Advanced Parallel Computation 1</li>
 <li>Code: 3394.511</li>
@@ -218,7 +218,7 @@
 <li>Place: 500-L303</li>
 <li>Tutor: Hogyun Jeong (PhD candidate in Interdisciplinary Program in Computational Science and Technology)</li>
 </ul>
-<h4><a href="http://cqmp.snu.ac.kr/jyu/mech2010/"  class="extlink extlink-icon-1 "  rel="self">Mechanics: Short Course</a> - 단학기 역학<br>Sping 2010</h4>
+<h4><a href="http://cqmp.snu.ac.kr/jyu/mech2010/"  class="extlink extlink-icon-1"  rel="self">Mechanics: Short Course</a> - 단학기 역학<br>Sping 2010</h4>
 <ul class="disc">
 <li>Course Title: 단학기 역학 (Mechanics : Short Course) 3-3-0</li>
 <li>Code: 300.209C</li>
@@ -232,7 +232,7 @@
 <li>Code: 3342.506</li>
 <li>Time: TTh 10:30-11:45</li>
 <li>Place: 56-105</li>
-<li>Home page: <a href="http://cqmp.snu.ac.kr/jyu/QM2-2009"  class="extlink extlink-icon-1 "  rel="self">http://cqmp.snu.ac.kr/jyu/QM2-2009</a></li>
+<li>Home page: <a href="http://cqmp.snu.ac.kr/jyu/QM2-2009"  class="extlink extlink-icon-1"  rel="self">http://cqmp.snu.ac.kr/jyu/QM2-2009</a></li>
 </ul>
 <h4><br>Quantum Mechanics 1 (2009 Spring):</h4>
 <ul class="disc">
@@ -241,20 +241,20 @@
 <li>Code: 3342.505</li>
 <li>Time: TTh 13:00-14:15</li>
 <li>Place: 28-302</li>
-<li>Home page: <a href="http://cqmp.snu.ac.kr/jyu/QM1-2009"  class="extlink extlink-icon-1 "  rel="self">http://cqmp.snu.ac.kr/jyu/QM1-2009</a></li>
+<li>Home page: <a href="http://cqmp.snu.ac.kr/jyu/QM1-2009"  class="extlink extlink-icon-1"  rel="self">http://cqmp.snu.ac.kr/jyu/QM1-2009</a></li>
 </ul>
 <h4><br>미시세계와 거시세계 (핵심교양 강의)</h4>
 <ul class="disc">
-<li><a href="http://phya.snu.ac.kr/jyu/mima-14/"  class="extlink extlink-icon-1 "  rel="self">미시세계와</a><a href="http://phya.snu.ac.kr/jyu/mima-14/"  class="extlink extlink-icon-1 "  rel="self"> </a><a href="http://phya.snu.ac.kr/jyu/mima-14/"  class="extlink extlink-icon-1 "  rel="self">거시세계</a></li>
+<li><a href="http://phya.snu.ac.kr/jyu/mima-14/"  class="extlink extlink-icon-1"  rel="self">미시세계와</a><a href="http://phya.snu.ac.kr/jyu/mima-14/"  class="extlink extlink-icon-1"  rel="self"> </a><a href="http://phya.snu.ac.kr/jyu/mima-14/"  class="extlink extlink-icon-1"  rel="self">거시세계</a></li>
 </ul>
 <h4><br>고체물리학 (대학원 강의)</h4>
 <ul class="disc">
-<li><a href="http://cqmp.snu.ac.kr/jyu/pw/?n=Lecture.SolidStatePhysicsOne"  class="extlink extlink-icon-1 "  rel="self">고체물리학</a><a href="http://cqmp.snu.ac.kr/jyu/pw/?n=Lecture.SolidStatePhysicsOne"  class="extlink extlink-icon-1 "  rel="self"> I</a></li>
-<li><a href="http://cqmp.snu.ac.kr/jyu/pw/?n=Lecture.SolidStatePhysicsTwo"  class="extlink extlink-icon-1 "  rel="self">고체물리학</a><a href="http://cqmp.snu.ac.kr/jyu/pw/?n=Lecture.SolidStatePhysicsTwo"  class="extlink extlink-icon-1 "  rel="self"> II</a></li>
+<li><a href="http://cqmp.snu.ac.kr/jyu/pw/?n=Lecture.SolidStatePhysicsOne"  class="extlink extlink-icon-1"  rel="self">고체물리학</a><a href="http://cqmp.snu.ac.kr/jyu/pw/?n=Lecture.SolidStatePhysicsOne"  class="extlink extlink-icon-1"  rel="self"> I</a></li>
+<li><a href="http://cqmp.snu.ac.kr/jyu/pw/?n=Lecture.SolidStatePhysicsTwo"  class="extlink extlink-icon-1"  rel="self">고체물리학</a><a href="http://cqmp.snu.ac.kr/jyu/pw/?n=Lecture.SolidStatePhysicsTwo"  class="extlink extlink-icon-1"  rel="self"> II</a></li>
 </ul>
 <h4><br>Tutorial lectures on advanced topics</h4>
 <ul class="disc">
-<li><a href="http://cqmp.snu.ac.kr/jyu/pw/?n=Main.TalksAndTutorials"  class="extlink extlink-icon-1 "  rel="self">Tutorials</a></li>
+<li><a href="http://cqmp.snu.ac.kr/jyu/pw/?n=Main.TalksAndTutorials"  class="extlink extlink-icon-1"  rel="self">Tutorials</a></li>
 </ul>
 <p> </p>
             ]]>
@@ -274,7 +274,7 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://jyusnu.github.io/media/posts/22/research-summary-0.jpg" alt="" />
-                    [fi=feather] Research Summary (old version)
+                    <svg class="fi fi-feather" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><use href="https://jyusnu.github.io/media/plugins/featherIcons/feather-sprite.svg#feather" /></svg> Research Summary (old version)
                 ]]>
             </summary>
         <content type="html">
@@ -282,7 +282,7 @@
                     <p><img src="https://jyusnu.github.io/media/posts/22/research-summary-0.jpg" class="type:primaryImage" alt="" /></p>
                 <div id="contentContainer">
 <div id="content">
-<h6> [fi=feather] <a href="https://jyusnu.github.io/pages/research-idea/">Research Summary (old version)</a></h6>
+<h6> <svg class="fi fi-feather" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><use href="https://jyusnu.github.io/media/plugins/featherIcons/feather-sprite.svg#feather" /></svg> <a href="https://jyusnu.github.io/pages/research-idea/">Research Summary (old version)</a></h6>
 </div>
 <div class="clearer"> </div>
 <div id="breadcrumbcontainer"></div>
@@ -314,20 +314,20 @@
                     <p><img src="https://jyusnu.github.io/media/posts/21/vscode.jpg" class="type:primaryImage" alt="" /></p>
                 <p> </p>
 <h4>Emacs</h4>
-<p><br><a href="http://www.gnu.org/software/emacs/emacs.html"  class="extlink extlink-icon-1 "  >GNU Emacs</a> is a self-documented editor for the advanced programmer. For more information, check the related pages:</p>
+<p><br><a href="http://www.gnu.org/software/emacs/emacs.html"  class="extlink extlink-icon-1"  >GNU Emacs</a> is a self-documented editor for the advanced programmer. For more information, check the related pages:</p>
 <ul class="disc">
-<li><a href="http://www.emacswiki.org/cgi-bin/wiki.pl"  class="extlink extlink-icon-1 "  >Emacs Site-Map</a> -- a wiki-based site for Emacs</li>
-<li><a href="http://www.gnu.org/software/emacs/windows/ntemacs.html"  class="extlink extlink-icon-1 "  >GNU Emacs for Windows</a> --</li>
-<li><a href="http://www.emacswiki.org/cgi-bin/wiki.pl?OnlineResources"  class="extlink extlink-icon-1 "  >On-line resources</a> -- on-line resources for the GNU Emacs</li>
+<li><a href="http://www.emacswiki.org/cgi-bin/wiki.pl"  class="extlink extlink-icon-1"  >Emacs Site-Map</a> -- a wiki-based site for Emacs</li>
+<li><a href="http://www.gnu.org/software/emacs/windows/ntemacs.html"  class="extlink extlink-icon-1"  >GNU Emacs for Windows</a> --</li>
+<li><a href="http://www.emacswiki.org/cgi-bin/wiki.pl?OnlineResources"  class="extlink extlink-icon-1"  >On-line resources</a> -- on-line resources for the GNU Emacs</li>
 </ul>
 <h4>VS code</h4>
 <ul>
-<li><a href="https://code.visualstudio.com"  class="extlink extlink-icon-1 "  >https://code.visualstudio.com</a></li>
+<li><a href="https://code.visualstudio.com"  class="extlink extlink-icon-1"  >https://code.visualstudio.com</a></li>
 <li>Code with GitHub Copilot </li>
 </ul>
 <h4>Zed</h4>
 <ul>
-<li><a href="https://zed.dev"  class="extlink extlink-icon-1 "  >https://zed.dev</a></li>
+<li><a href="https://zed.dev"  class="extlink extlink-icon-1"  >https://zed.dev</a></li>
 <li><span data-br=":R5k57qbt6ja:" data-brr="1">The editor for what's next</span></li>
 </ul>
             ]]>
@@ -355,12 +355,12 @@
                     <p><img src="https://jyusnu.github.io/media/posts/20/latex.png" class="type:primaryImage" alt="" /></p>
                 <h4>LaTeX Tips</h4>
 <ul class="disc">
-<li>General LaTeX tips and tricks: <a href="http://www.kronto.org/thesis/tips/index.html"  class="extlink extlink-icon-1 "  >http://www.kronto.org/thesis/tips/index.html</a></li>
-<li>Best websites: <a href="http://www.ctan.org/"  class="extlink extlink-icon-1 "  >CTAN: The Comprehensive TeX Archive Network</a> and <a href="http://www.ctan.org/search/?action=/index.html"  class="extlink extlink-icon-1 "  >CTAN Search Page</a></li>
+<li>General LaTeX tips and tricks: <a href="http://www.kronto.org/thesis/tips/index.html"  class="extlink extlink-icon-1"  >http://www.kronto.org/thesis/tips/index.html</a></li>
+<li>Best websites: <a href="http://www.ctan.org/"  class="extlink extlink-icon-1"  >CTAN: The Comprehensive TeX Archive Network</a> and <a href="http://www.ctan.org/search/?action=/index.html"  class="extlink extlink-icon-1"  >CTAN Search Page</a></li>
 <li>LaTeX distribution: In linux, texlive, tetex; in windows, miktex</li>
-<li>Editor: <a href="http://www.gnu.org/software/emacs/emacs.html"  class="extlink extlink-icon-1 "  >GNU Emacs</a> with <a href="http://www.gnu.org/software/auctex/"  class="extlink extlink-icon-1 "  >AUCTeX</a>, or use <a href="http://kile.sourceforge.net/"  class="extlink extlink-icon-1 "  >Kile</a> in Linux. In windows, try led</li>
-<li>Drawing program: <a href="http://www.xfig.org/"  class="extlink extlink-icon-1 "  >xfig</a> or <a href="http://www.gnome.org/projects/dia/"  class="extlink extlink-icon-1 "  >Dia</a> to generation eps or pdf figures</li>
-<li>Creating graphs: <a href="http://www.gnuplot.info/"  class="extlink extlink-icon-1 "  >gnuplot</a> or <a href="http://gri.sourceforge.net/"  class="extlink extlink-icon-1 "  >gri graphing language</a> as an alternative</li>
+<li>Editor: <a href="http://www.gnu.org/software/emacs/emacs.html"  class="extlink extlink-icon-1"  >GNU Emacs</a> with <a href="http://www.gnu.org/software/auctex/"  class="extlink extlink-icon-1"  >AUCTeX</a>, or use <a href="http://kile.sourceforge.net/"  class="extlink extlink-icon-1"  >Kile</a> in Linux. In windows, try led</li>
+<li>Drawing program: <a href="http://www.xfig.org/"  class="extlink extlink-icon-1"  >xfig</a> or <a href="http://www.gnome.org/projects/dia/"  class="extlink extlink-icon-1"  >Dia</a> to generation eps or pdf figures</li>
+<li>Creating graphs: <a href="http://www.gnuplot.info/"  class="extlink extlink-icon-1"  >gnuplot</a> or <a href="http://gri.sourceforge.net/"  class="extlink extlink-icon-1"  >gri graphing language</a> as an alternative</li>
 </ul>
 <p> </p>
             ]]>
@@ -388,12 +388,12 @@
                     <p><img src="https://jyusnu.github.io/media/posts/2/9316524.webp" class="type:primaryImage" alt="" /></p>
                 <h4>Space Groups:</h4>
 <ul class="disc">
-<li><a href="http://www-srs.caos.kun.nl/csecm/doc/index.html"  class="extlink extlink-icon-1 "  rel="self">http://www-srs.caos.kun.nl/csecm/doc/index.html</a> -- CSECM Space Group</li>
-<li><a href="http://zebra.sci.ccny.cuny.edu/web/"  class="extlink extlink-icon-1 "  rel="self">http://zebra.sci.ccny.cuny.edu/web/</a> -- Magnus, combinatorial group theory software project</li>
+<li><a href="http://www-srs.caos.kun.nl/csecm/doc/index.html"  class="extlink extlink-icon-1"  rel="self">http://www-srs.caos.kun.nl/csecm/doc/index.html</a> -- CSECM Space Group</li>
+<li><a href="http://zebra.sci.ccny.cuny.edu/web/"  class="extlink extlink-icon-1"  rel="self">http://zebra.sci.ccny.cuny.edu/web/</a> -- Magnus, combinatorial group theory software project</li>
 </ul>
 <h4>Physical constants:</h4>
 <ul class="disc">
-<li><a href="http://www.astro.wisc.edu/~dolan/constants.html"  class="extlink extlink-icon-1 "  rel="self">http://www.astro.wisc.edu/~dolan/constants.html</a> -- Physical Constants and Astronomical Data</li>
+<li><a href="http://www.astro.wisc.edu/~dolan/constants.html"  class="extlink extlink-icon-1"  rel="self">http://www.astro.wisc.edu/~dolan/constants.html</a> -- Physical Constants and Astronomical Data</li>
 </ul>
 <p> </p>
             ]]>
