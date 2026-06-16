@@ -3,7 +3,7 @@
     <title>Jaejun Yu</title>
     <link href="https://jyusnu.github.io/feed.xml" rel="self" />
     <link href="https://jyusnu.github.io" />
-    <updated>2026-06-16T22:47:34+09:00</updated>
+    <updated>2026-06-16T22:51:07+09:00</updated>
     <author>
         <name>Jaejun Yu</name>
     </author>
@@ -30,11 +30,8 @@
             <![CDATA[
                     <p><img src="https://jyusnu.github.io/media/posts/29/jayeondae-50junyeon-youtube-face.jpg" class="type:primaryImage" alt="" /></p>
                 <div id="expanded" class="style-scope ytd-text-inline-expander"><span class="ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap" dir="auto" role="text"><span class="ytAttributedStringLinkInheritColor" dir="auto">서울대학교 자연과학대학은 설립 50주년을 맞아, 자연대의 비전과 미래를 담은 홍보영상입니다.<br>자연과학의 미래를 향한 여정에 여러분도 함께해주세요.</span></span></div>
-<p> </p>
-<div> </div>
 <div>
-<figure class="post__video"><video loading="lazy" width="600" height="300" controls="controls">
-<source src="#INTERNAL_LINK#/media/files/snu-cns-50th-anni.mp4" type="video/mp4" /></video></figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/mIo7O4YADws?si=hEOiWvkPGzLTlUrb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></figure>
 </div>
             ]]>
         </content>
