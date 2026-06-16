@@ -3,12 +3,41 @@
     <title>Jaejun Yu</title>
     <link href="https://jyusnu.github.io/feed.xml" rel="self" />
     <link href="https://jyusnu.github.io" />
-    <updated>2026-06-16T22:55:40+09:00</updated>
+    <updated>2026-06-16T22:59:18+09:00</updated>
     <author>
         <name>Jaejun Yu</name>
     </author>
     <id>https://jyusnu.github.io</id>
 
+    <entry>
+        <title>전공의 벽을 허물다 — NEXST Lab, 초학제 연구 거점의 설계</title>
+        <author>
+            <name>Jaejun Yu</name>
+        </author>
+        <link href="https://jyusnu.github.io/blog/jeongongyi-byeogeul-heomulda-nexst-lab-cohagje-yeongu-geojeomyi-seolgye/"/>
+        <id>https://jyusnu.github.io/blog/jeongongyi-byeogeul-heomulda-nexst-lab-cohagje-yeongu-geojeomyi-seolgye/</id>
+        <media:content url="https://jyusnu.github.io/media/posts/30/02_blog_hero.png" medium="image" />
+            <category term="Social Media"/>
+
+        <updated>2026-06-16T22:59:13+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://jyusnu.github.io/media/posts/30/02_blog_hero.png" alt="" />
+                    1만 제곱미터. 교수 100명. 실험실 100개. 숫자만 보면 단순한 시설 확충처럼 보입니다.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jyusnu.github.io/media/posts/30/02_blog_hero.png" class="type:primaryImage" alt="" /></p>
+                <p class="md-end-block md-p md-focus"><strong><span class="md-plain md-expand">1만 제곱미터. 교수 100명. 실험실 100개.</span></strong></p>
+<p class="md-end-block md-p"><span class="md-plain">숫자만 보면 단순한 시설 확충처럼 보입니다. 그러나 NEXST Lab의 본질은 규모가 아니라 설계 원리에 있습니다. 이 공간의 핵심 전제는 하나입니다. 전공의 경계가 연구의 경계가 되어서는 안 된다는 것.</span></p>
+<p class="md-end-block md-p"><span class="md-plain">한국 대학 연구의 오랜 구조적 문제는 전공 사일로입니다. 물리학자는 물리학과에, 화학자는 화학과에, 생물학자는 생물학과에 각자의 실험실을 갖습니다. 개별 연구의 깊이는 높아지지만, 경계를 넘어야 비로소 보이는 질문들은 놓칩니다. 세계 학술계가 지금 가장 뜨겁게 탐구하는 영역들 — 예를 들어, 합성생물학, 뇌-신경과학, 양자물질·소재·에너지 융합, AI for Science — 은 하나의 전공 안에 담기지 않습니다. 추격자의 자리에서 벗어나 선도자가 되려면, 아무도 아직 이름 붙이지 않은 경계 지점에서 먼저 질문을 던져야 합니다.</span></p>
+<p class="md-end-block md-p"><span class="md-plain">NEXST Lab의 청사진을 설계하면서 참조한 모델은 미국의 연방자금지원연구개발센터(FFRDC)였습니다. 특정 기관의 이해관계로부터 독립하여 국가 전략적 연구 과제를 수행하는 이 거버넌스 모델은 연구자가 부처의 지침이나 단기 성과 지표에 묶이지 않고 10년, 20년의 지평에서 근본 문제를 파고들 수 있도록 설계되어 있습니다. NEXST Lab은 이 원리를 서울대학교 캠퍼스 안으로 가져오려는 시도입니다.</span></p>
+<p class="md-end-block md-p"><span class="md-plain">1만 제곱미터의 공간에서 서로 다른 전공의 교수 100명이 실험실의 벽 없이 연구한다는 것은 단순한 공간의 통합이 아닙니다. 물리학자와 생명과학자가 같은 복도에서 우연히 대화하고, 그 대화에서 어느 쪽도 혼자였다면 떠올리지 못했을 질문이 탄생하는 것. 세계 최고 수준의 융합 연구소들이 공통적으로 증언하는 것은 이 </span><span class="md-pants " data-text="'" data-content="’" data-desc="close_single">’</span><span class="md-plain">우연한 충돌</span><span class="md-pants " data-text="'" data-content="’" data-desc="close_single">’</span><span class="md-plain">이 설계 가능하다는 사실입니다.</span></p>
+<p class="md-end-block md-p md-focus"><span class="md-plain md-expand">NEXST Lab은 아직 청사진 단계입니다. 그러나 이 청사진이 중요한 것은 서울대학교가 어떤 종류의 연구 문화를 지향하는가에 대한 선언이기 때문입니다. 추격이 아닌 선도, 단기 성과가 아닌 근본 질문, 전공의 깊이와 경계를 넘는 확장이 동시에 가능한 공간. 초융합 캠퍼스 비전의 가장 구체적인 증거가 여기에 있습니다.</span></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>서울대 자연대가 묻습니다 – 다음 50년의 과학은 누가 만드는가?</title>
         <author>
@@ -387,39 +416,6 @@
 <li><a href="https://zed.dev"  class="extlink extlink-icon-1"  >https://zed.dev</a></li>
 <li><span data-br=":R5k57qbt6ja:" data-brr="1">The editor for what's next</span></li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>LaTeX</title>
-        <author>
-            <name>Jaejun Yu</name>
-        </author>
-        <link href="https://jyusnu.github.io/blog/latex-2/"/>
-        <id>https://jyusnu.github.io/blog/latex-2/</id>
-        <media:content url="https://jyusnu.github.io/media/posts/20/latex.png" medium="image" />
-            <category term="Codes and tools"/>
-
-        <updated>2024-10-16T16:42:02+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://jyusnu.github.io/media/posts/20/latex.png" alt="" />
-                    LaTeX Tips General LaTeX tips and tricks: http://www.kronto.org/thesis/tips/index.html Best websites: CTAN: The&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://jyusnu.github.io/media/posts/20/latex.png" class="type:primaryImage" alt="" /></p>
-                <h4>LaTeX Tips</h4>
-<ul class="disc">
-<li>General LaTeX tips and tricks: <a href="http://www.kronto.org/thesis/tips/index.html"  class="extlink extlink-icon-1"  >http://www.kronto.org/thesis/tips/index.html</a></li>
-<li>Best websites: <a href="http://www.ctan.org/"  class="extlink extlink-icon-1"  >CTAN: The Comprehensive TeX Archive Network</a> and <a href="http://www.ctan.org/search/?action=/index.html"  class="extlink extlink-icon-1"  >CTAN Search Page</a></li>
-<li>LaTeX distribution: In linux, texlive, tetex; in windows, miktex</li>
-<li>Editor: <a href="http://www.gnu.org/software/emacs/emacs.html"  class="extlink extlink-icon-1"  >GNU Emacs</a> with <a href="http://www.gnu.org/software/auctex/"  class="extlink extlink-icon-1"  >AUCTeX</a>, or use <a href="http://kile.sourceforge.net/"  class="extlink extlink-icon-1"  >Kile</a> in Linux. In windows, try led</li>
-<li>Drawing program: <a href="http://www.xfig.org/"  class="extlink extlink-icon-1"  >xfig</a> or <a href="http://www.gnome.org/projects/dia/"  class="extlink extlink-icon-1"  >Dia</a> to generation eps or pdf figures</li>
-<li>Creating graphs: <a href="http://www.gnuplot.info/"  class="extlink extlink-icon-1"  >gnuplot</a> or <a href="http://gri.sourceforge.net/"  class="extlink extlink-icon-1"  >gri graphing language</a> as an alternative</li>
-</ul>
-<p> </p>
             ]]>
         </content>
     </entry>
