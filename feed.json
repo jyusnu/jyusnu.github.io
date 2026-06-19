@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://jyusnu.github.io/blog/junbidoen-injaeege-gidarira-haji-anhneun-geos-gicogwamog-myeonje-jedoyi-cwijiwa-seonggwa/",
+            "url": "https://jyusnu.github.io/blog/junbidoen-injaeege-gidarira-haji-anhneun-geos-gicogwamog-myeonje-jedoyi-cwijiwa-seonggwa/",
+            "title": "준비된 인재에게 기다리라 하지 않는 것 — 기초과목 면제 제도의 취지와 성과",
+            "summary": "영재고·과학고 3년. 그 시간 동안 고급 수학과 고급물리, 고급화학을 이미 대학 수준으로&hellip;",
+            "content_html": "<p class=\"md-end-block md-p md-focus\"><span class=\"md-plain md-expand\">영재고·과학고 3년. 그 시간 동안 고급 수학과 고급물리, 고급화학을 이미 대학 수준으로 익힌 학생이 있습니다. 그 학생이 서울대학교에 입학하면 어떤 일이 벌어졌습니까. 제도는 그에게 이미 아는 내용을 1년 더 수강하도록 요구했습니다.</span></p>\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">이것은 낭비입니다. 인재의 시간에 대한 낭비이고, 연구 생태계 전체에 대한 낭비입니다. 세계 최고의 연구자들이 가장 창의적인 질문을 던지는 시기는 대개 20대 초반입니다. 그 황금 같은 시간을 이미 통과한 지식을 다시 확인하는 데 쓰도록 강제하는 것은 제도가 인재를 위해 존재하는 것이 아니라, 인재가 제도를 위해 존재하는 것입니다.</span></p>\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">2026학년도부터 자연과학대학에 도입된 기초과목 면제 제도는 이 구조를 바꾸는 첫걸음입니다. 영재고·과학고, 또는 일반고에서 역량을 갖춘 학생은 기초 필수 과목의 이수 의무를 면제받고, 1학년 첫 학기부터 심화 전공 강의나 연구실 참여, 대학원 수준의 세미나에 진입할 수 있습니다.</span></p>\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">이 제도의 핵심은 예외가 아닌 경로의 설계입니다. 누군가에게 특혜를 주는 것이 아니라, 이미 다른 경로로 역량을 쌓은 사람에게 그에 맞는 진입점을 제공하는 것입니다. 대학 커리큘럼이란 모든 학생이 동일한 속도로 동일한 순서를 따라야 하는 컨베이어 벨트가 아닙니다. 각자의 출발점에서 가장 빠르게 성장할 수 있는 경로를 설계하는 것, 그것이 교육 행정의 역할입니다.</span></p>\n<p class=\"md-end-block md-p md-focus\"><span class=\"md-plain md-expand\">제도가 인재의 발목을 잡지 않을 때, 인재는 더 일찍 더 깊이 성장합니다. 이것이 서울대학교가 지향해야 할 학사 유연화의 방향입니다.</span></p>",
+            "image": "https://jyusnu.github.io/media/posts/31/03_blog_hero.png",
+            "author": {
+                "name": "Jaejun Yu"
+            },
+            "tags": [
+                   "Social Media"
+            ],
+            "date_published": "2026-06-19T11:18:56+09:00",
+            "date_modified": "2026-06-19T11:19:02+09:00"
+        },
+        {
             "id": "https://jyusnu.github.io/blog/jeongongyi-byeogeul-heomulda-nexst-lab-cohagje-yeongu-geojeomyi-seolgye/",
             "url": "https://jyusnu.github.io/blog/jeongongyi-byeogeul-heomulda-nexst-lab-cohagje-yeongu-geojeomyi-seolgye/",
             "title": "전공의 벽을 허물다 — NEXST Lab, 초학제 연구 거점의 설계",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2024-10-16T16:51:14+09:00",
             "date_modified": "2024-10-16T16:56:42+09:00"
-        },
-        {
-            "id": "https://jyusnu.github.io/blog/editors-and-ide/",
-            "url": "https://jyusnu.github.io/blog/editors-and-ide/",
-            "title": "Editors and IDE",
-            "summary": "GNU Emacs is a self-documented editor for the advanced programmer. For more&hellip;",
-            "content_html": "<p> </p>\n<h4>Emacs</h4>\n<p><br><a href=\"http://www.gnu.org/software/emacs/emacs.html\"  class=\"extlink extlink-icon-1\"  >GNU Emacs</a> is a self-documented editor for the advanced programmer. For more information, check the related pages:</p>\n<ul class=\"disc\">\n<li><a href=\"http://www.emacswiki.org/cgi-bin/wiki.pl\"  class=\"extlink extlink-icon-1\"  >Emacs Site-Map</a> -- a wiki-based site for Emacs</li>\n<li><a href=\"http://www.gnu.org/software/emacs/windows/ntemacs.html\"  class=\"extlink extlink-icon-1\"  >GNU Emacs for Windows</a> --</li>\n<li><a href=\"http://www.emacswiki.org/cgi-bin/wiki.pl?OnlineResources\"  class=\"extlink extlink-icon-1\"  >On-line resources</a> -- on-line resources for the GNU Emacs</li>\n</ul>\n<h4>VS code</h4>\n<ul>\n<li><a href=\"https://code.visualstudio.com\"  class=\"extlink extlink-icon-1\"  >https://code.visualstudio.com</a></li>\n<li>Code with GitHub Copilot </li>\n</ul>\n<h4>Zed</h4>\n<ul>\n<li><a href=\"https://zed.dev\"  class=\"extlink extlink-icon-1\"  >https://zed.dev</a></li>\n<li><span data-br=\":R5k57qbt6ja:\" data-brr=\"1\">The editor for what's next</span></li>\n</ul>",
-            "image": "https://jyusnu.github.io/media/posts/21/vscode.jpg",
-            "author": {
-                "name": "Jaejun Yu"
-            },
-            "tags": [
-                   "Codes and tools"
-            ],
-            "date_published": "2024-10-16T16:46:18+09:00",
-            "date_modified": "2024-10-16T16:52:05+09:00"
         }
     ]
 }
