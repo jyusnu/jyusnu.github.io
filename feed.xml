@@ -3,12 +3,46 @@
     <title>Jaejun Yu</title>
     <link href="https://jyusnu.github.io/feed.xml" rel="self" />
     <link href="https://jyusnu.github.io" />
-    <updated>2026-08-06T20:33:01+09:00</updated>
+    <updated>2026-08-08T11:38:13+09:00</updated>
     <author>
         <name>Jaejun Yu</name>
     </author>
     <id>https://jyusnu.github.io</id>
 
+    <entry>
+        <title>데이터로 작동하는 대학 — 증거가 관행을 대체할 때</title>
+        <author>
+            <name>Jaejun Yu</name>
+        </author>
+        <link href="https://jyusnu.github.io/blog/deiteoro-jagdonghaneun-daehag-jeunggeoga-gwanhaengeul-daecehal-ddae/"/>
+        <id>https://jyusnu.github.io/blog/deiteoro-jagdonghaneun-daehag-jeunggeoga-gwanhaengeul-daecehal-ddae/</id>
+        <media:content url="https://jyusnu.github.io/media/posts/37/09_blog_hero.png" medium="image" />
+            <category term="Social Media"/>
+
+        <updated>2026-08-08T11:38:13+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://jyusnu.github.io/media/posts/37/09_blog_hero.png" alt="" />
+                    데이터로 작동하는 대학 — 증거가 관행을 대체할 때 서울대학교는 2019년 이후 서른&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jyusnu.github.io/media/posts/37/09_blog_hero.png" class="type:primaryImage" alt="" /></p>
+                <h5>데이터로 작동하는 대학 — 증거가 관행을 대체할 때</h5>
+<p class="md-end-block md-p md-focus"><span class="md-plain md-expand">서울대학교는 2019년 이후 서른 건이 넘는 데이터 분석을 수행해 왔습니다. 수강신청 경쟁률과 학생들의 실제 수요, 강의평가 점수에 영향을 주는 요인, 전공 결정 시기와 만족도의 관계, 기부자의 성향까지. 결코 적은 축적이 아닙니다. 그런데 저는 이 목록을 볼 때마다 다른 질문이 떠오릅니다. 이 가운데 몇 건이 실제로 어떤 결정을 바꾸었습니까.</span></p>
+<p class="md-end-block md-p"><span class="md-plain">정확한 답은 저도 알지 못합니다. 그리고 그 사실 자체가 하나의 진단입니다. 분석은 보고서로 남고 결정은 회의실에서 따로 납니다. 두 흐름이 만나는 지점이 제도로 규정되어 있지 않기 때문입니다. 그러니 문제는 데이터가 없다는 데 있지 않습니다. 데이터가 결정에 닿는 경로가 없다는 데 있습니다.</span></p>
+<p class="md-end-block md-p"><span class="md-plain">지난 글에서 저는 대학 행정에 전문성이 축적되지 않는 구조를 말씀드렸습니다. 사람이 옮겨가면 그가 쌓은 판단도 함께 떠납니다. 남을 수 있는 것은 기록뿐입니다. 그러므로 데이터는 효율의 문제이기 이전에 기억의 문제입니다.</span></p>
+<p class="md-end-block md-p"><span class="md-plain">그리고 기억에는 방향이 있습니다. 여기서 가장 중요한 질문이 나옵니다. 그 기억을 누가 볼 수 있습니까.</span></p>
+<p class="md-end-block md-p"><span class="md-plain">지금 대학에서 어떤 결정에 반대하려면 근거가 필요합니다. 그런데 근거가 되는 자료는 그것을 관리하는 부서에 모이게 마련입니다. 누가 감추어서가 아니라 자료를 다루는 일이 본래 그 부서의 업무이기 때문에 생긴 자연스러운 결과입니다. 다만 결과는 같습니다. 근거를 가진 쪽만 말할 수 있습니다. 그러므로 자료를 공개한다는 것은 편의를 제공하는 일이 아니라 반박의 자격을 나누는 일입니다.</span></p>
+<p class="md-end-block md-p"><span class="md-plain">분명히 해 둘 것이 있습니다. 데이터는 자원 배분의 근거가 될 수 있고 또 되어야 합니다. 저는 그 점을 감추고 싶지 않습니다. 다만 그 근거는 공개되어야 하고 반박 가능해야 합니다. 그리고 데이터는 결정을 돕는 언어이지 결정을 내리는 주체가 아닙니다. 강의평가 점수가 낮다는 사실 하나로 그 수업의 가치를 판단할 수 없는 것처럼, 숫자의 해석에는 언제나 학문적 판단이 함께 놓여야 합니다.</span></p>
+<p class="md-end-block md-p"><span class="md-plain">저는 세 가지를 제안합니다. 첫째, 공개를 기본값으로 삼는 것입니다. 결정의 근거가 된 자료는 결정과 함께 공개되어야 합니다. 둘째, 분석을 절차 안으로 들이는 것입니다. 새 기구를 만들자는 뜻이 아닙니다. 이미 쌓여 온 분석 역량이 주요 의사결정 과정에 자연스럽게 닿도록 경로를 정하자는 것입니다. 셋째, 읽는 법을 함께 익히는 것입니다. 데이터를 해석하는 능력은 담당 부서의 기술이 아니라 결정에 참여하는 모든 사람의 소양이어야 합니다.</span></p>
+<p class="md-end-block md-p"><span class="md-plain">한 가지 하한선을 덧붙입니다. 예측은 개입의 근거이지 분류의 근거가 아닙니다. 어려움을 겪을 학생을 미리 알아보는 일은 그를 돕기 위한 것이지 그를 표시하기 위한 것이 아닙니다. 이 선이 무너지면 데이터가 쌓일수록 신뢰는 오히려 줄어듭니다.</span></p>
+<p class="md-end-block md-p md-focus"><span class="md-plain md-expand">해도를 선장실에만 두는 배가 있고, 갑판 벽에 걸어두는 배가 있습니다. 항로가 보이는 배에서는 이견이 반란이 아니라 항해술이 됩니다. 데이터는 통제의 기술이 아니라 합의의 언어입니다. 같은 사실 위에서 논쟁할 수 있을 때 대학은 비로소 함께 결정하는 공동체가 됩니다. 그리고 그 사실이 가장 먼저 드러낼 장면 가운데 하나는, 아마도 다음 세대의 연구자들이 지금 어떤 조건에서 일하고 있는가일 것입니다.</span></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>씨줄과 날줄 — 사람에 대한 투자, 그리고 수평 거버넌스</title>
         <author>
@@ -268,26 +302,6 @@
 <p class="md-end-block md-p"><span class="md-plain">한국 연구 생태계가 오랫동안 안고 있는 구조적 문제는 이 사례의 반면에 선명히 드러납니다. 정부 과제 의존도가 높아질수록 연구자는 선정 가능한 주제를 고르게 되고, 평가 지표에 맞는 결과를 내도록 압력을 받습니다. 10년의 지평을 놓고 최초의 질문을 파고드는 기초과학의 심층 탐구는 이 구조 안에서 설 자리를 잃습니다. 1,000억 무주 쎈 연구기금이 연 선례는 바로 그 구조에 균열을 내는 실증입니다.</span></p>
 <p class="md-end-block md-p md-focus"><span class="md-plain md-expand">대학 재정 자립은 모금 역량의 문제이기 이전에 철학의 문제입니다. 대학이 무엇을 위해 연구하는가에 대한 확고한 답을 가진 기관만이, 그 답에 공명하는 후원자를 만날 수 있습니다. 가장 야심찬 목표를 요구한 기부자에게 가장 근본적인 방법으로 응답할 수 있었던 것, 그것이 이번 유치의 본질이었습니다.</span></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>[SNUON] 서울대학교 예비대학 인트로 특강 2025-01</title>
-        <author>
-            <name>Jaejun Yu</name>
-        </author>
-        <link href="https://jyusnu.github.io/blog/snuon-seouldaehaggyo-yebidaehag-inteuro-teuggang-2025-01/"/>
-        <id>https://jyusnu.github.io/blog/snuon-seouldaehaggyo-yebidaehag-inteuro-teuggang-2025-01/</id>
-        <media:content url="https://jyusnu.github.io/media/posts/27/Intro_physics_lecture_img-2.jpg" medium="image" />
-            <category term="Education"/>
-
-        <updated>2025-02-04T13:41:52+09:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://jyusnu.github.io/media/posts/27/Intro_physics_lecture_img-2.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__video"><video loading="lazy" width="694" height="347" style="width: 828px; height: 410px;" controls="controls" data-mce-fragment="1" poster="https://jyusnu.github.io/media/posts/27/Intro_physics_lecture_img.jpg">
-<source src="https://drive.google.com/file/d/1-F4x4ENNkabQ-FwYrlVtBYw92RSHXAHp/view?usp=sharing" /><source src="https://etl.snu.ac.kr/courses/6791d790c9406504f952838f" /></video></figure>
             ]]>
         </content>
     </entry>
