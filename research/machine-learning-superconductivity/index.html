@@ -1,0 +1,534 @@
+<!DOCTYPE html><html lang="en-us"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>machine-learning-superconductivity - Jaejun Yu</title><meta name="description" content="#cnmp-hydrogen-preview { position: relative; left: 50%; width: 100vw; margin-left: -50vw; overflow: hidden;&amp;hellip;"><meta name="generator" content="Publii Open-Source CMS for Static Site"><script type="text/javascript" async src="https://www.googletagmanager.com/gtag/js?id="></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];
+				  function gtag(){dataLayer.push(arguments);}
+				  gtag('js', new Date());
+				  gtag('config', '' );</script><link rel="stylesheet" href="https://jyusnu.github.io/media/plugins/syntaxHighlighter/prism-black.css"><link rel="canonical" href="https://jyusnu.github.io/research/machine-learning-superconductivity/"><link rel="alternate" type="application/atom+xml" href="https://jyusnu.github.io/feed.xml" title="Jaejun Yu - RSS"><link rel="alternate" type="application/json" href="https://jyusnu.github.io/feed.json" title="Jaejun Yu - JSON"><meta property="og:title" content="machine-learning-superconductivity"><meta property="og:image" content="https://jyusnu.github.io/media/website/2026-YuJ-bio-photo-4-2.jpg"><meta property="og:image:width" content="1422"><meta property="og:image:height" content="1627"><meta property="og:site_name" content="Jaejun Yu"><meta property="og:description" content="#cnmp-hydrogen-preview { position: relative; left: 50%; width: 100vw; margin-left: -50vw; overflow: hidden;&amp;hellip;"><meta property="og:url" content="https://jyusnu.github.io/research/machine-learning-superconductivity/"><meta property="og:type" content="article"><link rel="shortcut icon" href="https://jyusnu.github.io/media/website/snu-logo.ico" type="image/x-icon"><link rel="preload" href="https://jyusnu.github.io/assets/dynamic/fonts/playfairdisplay/playfairdisplay.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://jyusnu.github.io/assets/dynamic/fonts/playfairdisplay/playfairdisplay-italic.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="https://jyusnu.github.io/assets/css/style.css?v&#x3D;f540bf7a02bd086b233dca1fff807d17"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://jyusnu.github.io/research/machine-learning-superconductivity/"},"headline":"machine-learning-superconductivity","datePublished":"2026-08-29T11:48+09:00","dateModified":"2026-08-29T11:48+09:00","image":{"@type":"ImageObject","url":"https://jyusnu.github.io/media/website/2026-YuJ-bio-photo-4-2.jpg","height":1627,"width":1422},"description":"#cnmp-hydrogen-preview { position: relative; left: 50%; width: 100vw; margin-left: -50vw; overflow: hidden;&hellip;","author":{"@type":"Person","name":"Jaejun Yu","url":"https://jyusnu.github.io/authors/jaejun-yu/"},"publisher":{"@type":"Organization","name":"Jaejun Yu","logo":{"@type":"ImageObject","url":"https://jyusnu.github.io/media/website/2026-YuJ-bio-photo-4-2.jpg","height":1627,"width":1422}}}</script><noscript><style>img[loading] {
+                    opacity: 1;
+                }</style></noscript><style>.fi{fill:none;stroke-linecap:round;stroke-linejoin:round;vertical-align:middle}</style><style>.li{fill:none;stroke-linecap:round;stroke-linejoin:round;vertical-align:middle}</style></head><body class="page-template"><div class="container"><header class="header" id="js-header"><a href="https://jyusnu.github.io/" class="logo"><img src="https://jyusnu.github.io/media/website/2026-YuJ-bio-photo-4-2.jpg" alt="Jaejun Yu" width="1422" height="1627"></a><nav class="navbar js-navbar"><button class="navbar__toggle js-toggle" aria-label="Menu"><span class="navbar__toggle-box"><span class="navbar__toggle-inner">Menu</span></span></button><ul class="navbar__menu"><li><a href="https://jyusnu.github.io/" target="_self">Home</a></li><li><a href="https://jyusnu.github.io/tags/social-media/" target="_self">Blog</a></li><li class="has-submenu"><a href="https://jyusnu.github.io/research/" target="_self" aria-haspopup="true">Research</a><ul class="navbar__submenu level-2" aria-hidden="true"><li><a href="https://jyusnu.github.io/about-me/publications/" target="_self">Publications</a></li><li><a href="https://jyusnu.github.io/about-me/publications/invited-talks/" target="_self">Invited Talks</a></li><li><a href="https://jyusnu.github.io/about-me/publications/conference-presentations/" target="_self">Conference Presentations</a></li><li><a href="https://jyusnu.github.io/about-me/publications/books/" target="_self">Books</a></li><li><a href="https://jyusnu.github.io/about-me/publications/tutorials/" target="_self">Tutorials</a></li></ul></li><li><a href="https://jyusnu.github.io/tags/" target="_self">Catagories</a></li><li class="has-submenu"><a href="https://jyusnu.github.io/about-me/" target="_self" aria-haspopup="true">About me</a><ul class="navbar__submenu level-2" aria-hidden="true"><li><a href="https://jyusnu.github.io/about-me/jaejun-yu-2/" target="_self">CV</a></li><li><a href="https://jyusnu.github.io/about-me/cv-hangeul/" target="_self">CV (한글)</a></li><li class="has-submenu"><a href="https://jyusnu.github.io/about-me/publications/" target="_self" aria-haspopup="true">Publications</a><ul class="navbar__submenu level-3" aria-hidden="true"><li><a href="https://jyusnu.github.io/about-me/publications/invited-talks/" target="_self">Invited Talks</a></li><li><a href="https://jyusnu.github.io/about-me/publications/conference-presentations/" target="_self">Conference Presentations</a></li><li><a href="https://jyusnu.github.io/about-me/publications/books/" target="_self">Books</a></li><li><a href="https://jyusnu.github.io/about-me/publications/tutorials/" target="_self">Tutorials</a></li></ul></li></ul></li></ul></nav><div class="search"><div class="search__overlay js-search-overlay"><form action="https://jyusnu.github.io/search.html" class="search__form"><input class="search__input" type="search" name="q" placeholder="search..." aria-label="search..."></form></div><button class="search__btn js-search-btn" aria-label="Search"><svg role="presentation" focusable="false" height="15" width="15"><use xlink:href="https://jyusnu.github.io/assets/svg/svg-map.svg#search"/></svg></button></div></header><main class="page"><article class="content wrapper"><header class="hero"><h1 class="content__title">machine-learning-superconductivity</h1></header><div class="content__entry"><div><style>#cnmp-hydrogen-preview {
+    position: relative;
+    left: 50%;
+    width: 100vw;
+    margin-left: -50vw;
+    overflow: hidden;
+    background: #fbfaf7;
+    color: #172238;
+    font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+
+  #cnmp-hydrogen-preview,
+  #cnmp-hydrogen-preview * {
+    box-sizing: border-box;
+  }
+
+  #cnmp-hydrogen-preview h2,
+  #cnmp-hydrogen-preview h3,
+  #cnmp-hydrogen-preview h4,
+  #cnmp-hydrogen-preview p {
+    margin: 0;
+  }
+
+  #cnmp-hydrogen-preview a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  #cnmp-hydrogen-preview a:focus-visible {
+    outline: 2px solid #63b8b0;
+    outline-offset: 4px;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-inner {
+    width: min(100% - 48px, 1080px);
+    margin: 0 auto;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-kicker {
+    color: #337d79;
+    font-size: 11px;
+    font-weight: 650;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-hero {
+    padding: 82px 0 88px;
+    background: #132c38;
+    color: #f8f4e9;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-hero-grid {
+    display: grid;
+    grid-template-columns: 1.08fr .92fr;
+    align-items: center;
+    gap: 68px;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-hero .hydrogen-kicker {
+    color: #75c9c0;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-title {
+    max-width: 720px;
+    margin-top: 20px;
+    color: #fffaf0;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(46px, 5.6vw, 72px);
+    font-weight: 500;
+    letter-spacing: -.035em;
+    line-height: 1.01;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-deck {
+    max-width: 690px;
+    margin-top: 28px;
+    color: #c7d4d7;
+    font-size: 17px;
+    line-height: 1.68;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-status {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 30px;
+    padding: 12px 16px;
+    border: 1px solid rgba(117, 201, 192, .45);
+    color: #d8eeeb;
+    font-size: 11px;
+    letter-spacing: .13em;
+    text-transform: uppercase;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-status::before {
+    content: "";
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: #75c9c0;
+    box-shadow: 0 0 0 5px rgba(117, 201, 192, .12);
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-hero-graphic {
+    position: relative;
+    min-height: 410px;
+    display: grid;
+    place-items: center;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-cage {
+    position: relative;
+    width: 320px;
+    height: 320px;
+    border: 1px solid rgba(117, 201, 192, .48);
+    border-radius: 36% 64% 58% 42% / 47% 42% 58% 53%;
+    transform: rotate(8deg);
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-cage::before,
+  #cnmp-hydrogen-preview .hydrogen-cage::after {
+    content: "";
+    position: absolute;
+    border: 1px solid rgba(207, 171, 102, .35);
+    border-radius: 50%;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-cage::before {
+    inset: 38px;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-cage::after {
+    inset: 76px;
+    border-color: rgba(117, 201, 192, .3);
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-host,
+  #cnmp-hydrogen-preview .hydrogen-atom {
+    position: absolute;
+    z-index: 2;
+    border-radius: 50%;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-host {
+    width: 18px;
+    height: 18px;
+    background: #cfab66;
+    box-shadow: 0 0 0 7px rgba(207, 171, 102, .12);
+  }
+
+  #cnmp-hydrogen-preview .host-1 { top: -4px; left: 145px; }
+  #cnmp-hydrogen-preview .host-2 { top: 43px; right: 23px; }
+  #cnmp-hydrogen-preview .host-3 { top: 145px; right: -5px; }
+  #cnmp-hydrogen-preview .host-4 { right: 37px; bottom: 29px; }
+  #cnmp-hydrogen-preview .host-5 { bottom: -3px; left: 146px; }
+  #cnmp-hydrogen-preview .host-6 { bottom: 39px; left: 25px; }
+  #cnmp-hydrogen-preview .host-7 { top: 145px; left: -5px; }
+  #cnmp-hydrogen-preview .host-8 { top: 38px; left: 29px; }
+
+  #cnmp-hydrogen-preview .hydrogen-network {
+    position: absolute;
+    inset: 82px;
+    z-index: 3;
+    transform: rotate(-8deg);
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-network::before,
+  #cnmp-hydrogen-preview .hydrogen-network::after {
+    content: "";
+    position: absolute;
+    inset: 26px;
+    border: 1px solid rgba(231, 244, 242, .42);
+    transform: rotate(45deg);
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-network::after {
+    transform: rotate(0deg);
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-atom {
+    width: 11px;
+    height: 11px;
+    background: #edf7f5;
+    box-shadow: 0 0 0 5px rgba(117, 201, 192, .16);
+  }
+
+  #cnmp-hydrogen-preview .atom-1 { top: 14px; left: 72px; }
+  #cnmp-hydrogen-preview .atom-2 { top: 39px; right: 33px; }
+  #cnmp-hydrogen-preview .atom-3 { top: 75px; right: 7px; }
+  #cnmp-hydrogen-preview .atom-4 { right: 36px; bottom: 30px; }
+  #cnmp-hydrogen-preview .atom-5 { bottom: 6px; left: 72px; }
+  #cnmp-hydrogen-preview .atom-6 { bottom: 34px; left: 31px; }
+  #cnmp-hydrogen-preview .atom-7 { top: 76px; left: 5px; }
+  #cnmp-hydrogen-preview .atom-8 { top: 39px; left: 32px; }
+  #cnmp-hydrogen-preview .atom-9 { top: 72px; left: 72px; width: 14px; height: 14px; background: #75c9c0; }
+
+  #cnmp-hydrogen-preview .hydrogen-graphic-label {
+    position: absolute;
+    right: 0;
+    bottom: 18px;
+    color: #93aaaE;
+    font-size: 10px;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-summary {
+    padding: 56px 0;
+    background: #dfecea;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-summary-grid {
+    display: grid;
+    grid-template-columns: 175px 1fr;
+    align-items: start;
+    gap: 42px;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-summary-statement {
+    max-width: 830px;
+    color: #172238;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(26px, 3.2vw, 38px);
+    font-weight: 500;
+    letter-spacing: -.018em;
+    line-height: 1.25;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-section {
+    padding: 86px 0;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-section-heading {
+    display: grid;
+    grid-template-columns: .75fr 1.25fr;
+    align-items: start;
+    gap: 70px;
+    margin-bottom: 44px;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-heading {
+    margin-top: 12px;
+    color: #172238;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(34px, 4vw, 48px);
+    font-weight: 500;
+    letter-spacing: -.025em;
+    line-height: 1.07;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-intro {
+    max-width: 640px;
+    color: #58616d;
+    font-size: 16px;
+    line-height: 1.72;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-pipeline {
+    padding: 86px 0 92px;
+    background: #f0ece4;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-process {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    margin-top: 45px;
+    border-top: 1px solid #cdc5b9;
+    border-bottom: 1px solid #cdc5b9;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-process-step {
+    position: relative;
+    min-height: 274px;
+    padding: 27px 24px 30px 0;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-process-step:not(:last-child) {
+    border-right: 1px solid #cdc5b9;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-process-step:not(:first-child) {
+    padding-left: 24px;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-step-number,
+  #cnmp-hydrogen-preview .hydrogen-objective-number {
+    color: #337d79;
+    font-size: 11px;
+    letter-spacing: .17em;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-step-icon {
+    position: relative;
+    width: 66px;
+    height: 66px;
+    margin-top: 24px;
+    border: 1px solid #337d79;
+    border-radius: 50%;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-step-icon::before,
+  #cnmp-hydrogen-preview .hydrogen-step-icon::after {
+    content: "";
+    position: absolute;
+  }
+
+  #cnmp-hydrogen-preview .icon-cage::before { inset: 15px; border: 1px solid #b58b4f; transform: rotate(45deg); }
+  #cnmp-hydrogen-preview .icon-cage::after { inset: 25px; border-radius: 50%; background: #337d79; }
+  #cnmp-hydrogen-preview .icon-search::before { width: 23px; height: 23px; top: 14px; left: 14px; border: 1px solid #337d79; border-radius: 50%; }
+  #cnmp-hydrogen-preview .icon-search::after { width: 21px; height: 1px; right: 10px; bottom: 16px; background: #b58b4f; transform: rotate(45deg); transform-origin: right; }
+  #cnmp-hydrogen-preview .icon-phonon::before { left: 8px; right: 8px; top: 31px; height: 1px; background: #337d79; }
+  #cnmp-hydrogen-preview .icon-phonon::after { left: 12px; top: 18px; width: 40px; height: 27px; border-top: 2px solid #b58b4f; border-bottom: 2px solid #b58b4f; border-radius: 50%; transform: rotate(-18deg); }
+  #cnmp-hydrogen-preview .icon-pressure::before { left: 31px; top: 10px; width: 1px; height: 38px; background: #337d79; }
+  #cnmp-hydrogen-preview .icon-pressure::after { left: 24px; bottom: 12px; width: 13px; height: 13px; border-left: 2px solid #b58b4f; border-bottom: 2px solid #b58b4f; transform: rotate(-45deg); }
+
+  #cnmp-hydrogen-preview .hydrogen-step-title {
+    margin-top: 21px;
+    color: #172238;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-step-copy {
+    margin-top: 11px;
+    color: #64696d;
+    font-size: 13px;
+    line-height: 1.55;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-arrow {
+    position: absolute;
+    top: 60px;
+    right: -12px;
+    z-index: 2;
+    width: 23px;
+    height: 23px;
+    display: grid;
+    place-items: center;
+    border: 1px solid #4f918d;
+    border-radius: 50%;
+    background: #f0ece4;
+    color: #337d79;
+    font-size: 12px;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-objectives-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 18px;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-objective {
+    min-height: 296px;
+    padding: 28px;
+    border: 1px solid #d9d9d4;
+    background: #fffefa;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-objective-title {
+    margin-top: 20px;
+    color: #172238;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-objective-copy {
+    margin-top: 14px;
+    color: #62666d;
+    font-size: 14px;
+    line-height: 1.62;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-boundary {
+    padding: 84px 0;
+    background: #132c38;
+    color: #f8f4e9;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-boundary-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 70px;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-boundary .hydrogen-kicker {
+    color: #75c9c0;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-boundary-title {
+    margin-top: 14px;
+    color: #fffaf0;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 1.12;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-boundary-copy {
+    margin-top: 19px;
+    color: #c7d4d7;
+    font-size: 15px;
+    line-height: 1.72;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-technical {
+    padding: 78px 0;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-technical-grid {
+    display: grid;
+    grid-template-columns: .8fr 1.2fr;
+    gap: 72px;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-definition-list {
+    border-top: 1px solid #d9d4ca;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-definition-row {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 25px;
+    padding: 21px 0;
+    border-bottom: 1px solid #d9d4ca;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-term {
+    color: #172238;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-definition {
+    color: #636970;
+    font-size: 13px;
+    line-height: 1.55;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-context {
+    padding: 42px 0;
+    border-top: 1px solid #ded8cd;
+    background: #f7f4ed;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-context-grid {
+    display: grid;
+    grid-template-columns: 160px 1fr;
+    align-items: start;
+    gap: 32px;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-context-copy {
+    color: #505965;
+    font-size: 13px;
+    line-height: 1.65;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-context-copy strong {
+    color: #172238;
+    font-weight: 600;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-context-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px 24px;
+    margin-top: 16px;
+  }
+
+  #cnmp-hydrogen-preview .hydrogen-context-link {
+    padding-bottom: 5px;
+    border-bottom: 1px solid #337d79;
+    color: #172238;
+    font-size: 10px;
+    letter-spacing: .11em;
+    text-transform: uppercase;
+  }
+
+  @media (max-width: 880px) {
+    #cnmp-hydrogen-preview .hydrogen-hero-grid,
+    #cnmp-hydrogen-preview .hydrogen-section-heading,
+    #cnmp-hydrogen-preview .hydrogen-technical-grid {
+      grid-template-columns: 1fr;
+      gap: 34px;
+    }
+
+    #cnmp-hydrogen-preview .hydrogen-hero-graphic { min-height: 340px; }
+    #cnmp-hydrogen-preview .hydrogen-cage { width: 280px; height: 280px; }
+    #cnmp-hydrogen-preview .hydrogen-process { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    #cnmp-hydrogen-preview .hydrogen-process-step:nth-child(2) { border-right: 0; }
+    #cnmp-hydrogen-preview .hydrogen-process-step:nth-child(-n+2) { border-bottom: 1px solid #cdc5b9; }
+    #cnmp-hydrogen-preview .hydrogen-arrow { display: none; }
+    #cnmp-hydrogen-preview .hydrogen-objectives-grid { grid-template-columns: 1fr; }
+    #cnmp-hydrogen-preview .hydrogen-objective { min-height: 0; }
+  }
+
+  @media (max-width: 620px) {
+    #cnmp-hydrogen-preview .hydrogen-inner { width: min(100% - 34px, 1080px); }
+    #cnmp-hydrogen-preview .hydrogen-hero { padding: 58px 0 66px; }
+    #cnmp-hydrogen-preview .hydrogen-title { font-size: 45px; }
+    #cnmp-hydrogen-preview .hydrogen-deck { font-size: 15px; }
+    #cnmp-hydrogen-preview .hydrogen-summary-grid,
+    #cnmp-hydrogen-preview .hydrogen-boundary-grid,
+    #cnmp-hydrogen-preview .hydrogen-context-grid { grid-template-columns: 1fr; gap: 18px; }
+    #cnmp-hydrogen-preview .hydrogen-section,
+    #cnmp-hydrogen-preview .hydrogen-pipeline,
+    #cnmp-hydrogen-preview .hydrogen-boundary,
+    #cnmp-hydrogen-preview .hydrogen-technical { padding: 64px 0; }
+    #cnmp-hydrogen-preview .hydrogen-process { grid-template-columns: 1fr; }
+    #cnmp-hydrogen-preview .hydrogen-process-step,
+    #cnmp-hydrogen-preview .hydrogen-process-step:not(:first-child) {
+      padding: 24px 0 28px;
+      border-right: 0;
+      border-bottom: 1px solid #cdc5b9;
+    }
+    #cnmp-hydrogen-preview .hydrogen-process-step:last-child { border-bottom: 0; }
+    #cnmp-hydrogen-preview .hydrogen-definition-row { grid-template-columns: 1fr; gap: 8px; }
+    #cnmp-hydrogen-preview .hydrogen-cage { width: 235px; height: 235px; }
+    #cnmp-hydrogen-preview .hydrogen-network { inset: 60px; }
+    #cnmp-hydrogen-preview .host-1,
+    #cnmp-hydrogen-preview .host-5 { left: 107px; }
+    #cnmp-hydrogen-preview .host-3,
+    #cnmp-hydrogen-preview .host-7 { top: 107px; }
+  }</style><article id="cnmp-hydrogen-preview" aria-label="Ongoing CNMP research: designing hydrogen cages for lower-pressure superconductivity"><header class="hydrogen-hero"><div class="hydrogen-inner hydrogen-hero-grid"><div><p class="hydrogen-kicker">Ongoing Research · Hydrogen-Rich Superconductors</p><h2 class="hydrogen-title">Designing hydrogen cages for lower-pressure superconductivity</h2><p class="hydrogen-deck">We use machine-learning interatomic potentials and first-principles calculations to search for host crystals that can confine dense hydrogen networks and stabilize high-temperature superconducting phases at progressively lower pressure.</p><p class="hydrogen-status">Active research program</p></div><div class="hydrogen-hero-graphic" role="img" aria-label="Host crystal cage surrounding a dense network of hydrogen atoms"><div class="hydrogen-cage" aria-hidden="true"><span class="hydrogen-host host-1"></span><span class="hydrogen-host host-2"></span> <span class="hydrogen-host host-3"></span><span class="hydrogen-host host-4"></span> <span class="hydrogen-host host-5"></span><span class="hydrogen-host host-6"></span> <span class="hydrogen-host host-7"></span><span class="hydrogen-host host-8"></span><div class="hydrogen-network"><span class="hydrogen-atom atom-1"></span><span class="hydrogen-atom atom-2"></span> <span class="hydrogen-atom atom-3"></span><span class="hydrogen-atom atom-4"></span> <span class="hydrogen-atom atom-5"></span><span class="hydrogen-atom atom-6"></span> <span class="hydrogen-atom atom-7"></span><span class="hydrogen-atom atom-8"></span> <span class="hydrogen-atom atom-9"></span></div></div><p class="hydrogen-graphic-label">Host lattice · confined H network</p></div></div></header><section class="hydrogen-summary"><div class="hydrogen-inner hydrogen-summary-grid"><p class="hydrogen-kicker">In One Sentence</p><p class="hydrogen-summary-statement">The long-term goal is to replace extreme mechanical compression with chemical and structural confinement, keeping a dense metallic hydrogen network stable at much lower pressure.</p></div></section><section class="hydrogen-section"><div class="hydrogen-inner"><div class="hydrogen-section-heading"><div><p class="hydrogen-kicker">The Scientific Challenge</p><h3 class="hydrogen-heading">Can a crystal cage do the work of megabar pressure?</h3></div><p class="hydrogen-intro">Hydrogen-rich materials can support very high superconducting transition temperatures because light hydrogen atoms vibrate at high frequencies and can couple strongly to electrons. The leading examples, however, require pressures of roughly 150–200 GPa. We search for host structures that chemically precompress and geometrically confine the hydrogen sublattice so that the essential superconducting state remains stable much closer to ambient pressure.</p></div></div></section><section class="hydrogen-pipeline"><div class="hydrogen-inner"><p class="hydrogen-kicker">Discovery Pipeline</p><h3 class="hydrogen-heading">From structural imagination to a testable candidate</h3><div class="hydrogen-process"><div class="hydrogen-process-step"><span class="hydrogen-step-number">01</span><div class="hydrogen-step-icon icon-cage" aria-hidden="true"></div><h4 class="hydrogen-step-title">Design host cages</h4><p class="hydrogen-step-copy">Identify crystal motifs and chemical environments capable of confining extended hydrogen networks.</p><span class="hydrogen-arrow" aria-hidden="true">→</span></div><div class="hydrogen-process-step"><span class="hydrogen-step-number">02</span><div class="hydrogen-step-icon icon-search" aria-hidden="true"></div><h4 class="hydrogen-step-title">Explore at scale</h4><p class="hydrogen-step-copy">Machine-learning interatomic potentials rapidly search compositions, structures, and pressure pathways.</p><span class="hydrogen-arrow" aria-hidden="true">→</span></div><div class="hydrogen-process-step"><span class="hydrogen-step-number">03</span><div class="hydrogen-step-icon icon-phonon" aria-hidden="true"></div><h4 class="hydrogen-step-title">Validate stability</h4><p class="hydrogen-step-copy">First-principles energies and phonons test thermodynamic and dynamical stability.</p><span class="hydrogen-arrow" aria-hidden="true">→</span></div><div class="hydrogen-process-step"><span class="hydrogen-step-number">04</span><div class="hydrogen-step-icon icon-pressure" aria-hidden="true"></div><h4 class="hydrogen-step-title">Lower the pressure</h4><p class="hydrogen-step-copy">Electron–phonon calculations estimate T<sub>c</sub>; decompression simulations test whether the phase can persist.</p></div></div></div></section><section class="hydrogen-section"><div class="hydrogen-inner"><div class="hydrogen-section-heading"><div><p class="hydrogen-kicker">Research Objectives</p><h3 class="hydrogen-heading">What a successful candidate must achieve</h3></div><p class="hydrogen-intro">A high predicted transition temperature alone is not enough. A credible material must combine the right hydrogen-derived electronic states with structural stability and a plausible route to synthesis or retention.</p></div><div class="hydrogen-objectives-grid"><div class="hydrogen-objective"><span class="hydrogen-objective-number">01</span><h4 class="hydrogen-objective-title">A persistent hydrogen network</h4><p class="hydrogen-objective-copy">The host lattice must preserve a dense, connected hydrogen framework while the external pressure is reduced.</p></div><div class="hydrogen-objective"><span class="hydrogen-objective-number">02</span><h4 class="hydrogen-objective-title">Strong superconducting ingredients</h4><p class="hydrogen-objective-copy">Hydrogen-derived states near the Fermi level, high-frequency phonons, and strong electron–phonon coupling must coexist.</p></div><div class="hydrogen-objective"><span class="hydrogen-objective-number">03</span><h4 class="hydrogen-objective-title">A realizable low-pressure phase</h4><p class="hydrogen-objective-copy">The structure must be thermodynamically competitive, dynamically stable, or sufficiently long-lived to survive decompression and experimental preparation.</p></div></div></div></section><section class="hydrogen-boundary"><div class="hydrogen-inner hydrogen-boundary-grid"><div><p class="hydrogen-kicker">Why It Matters</p><h3 class="hydrogen-boundary-title">Bridging spectacular physics and usable conditions</h3><p class="hydrogen-boundary-copy">High-pressure hydrides have established that conventional superconductivity can approach room temperature. Discovering a hydrogen-rich phase that retains a high T<sub>c</sub> at far lower pressure would convert that proof of principle into a new materials-design problem with practical consequences.</p></div><div><p class="hydrogen-kicker">Research Boundary</p><h3 class="hydrogen-boundary-title">A target—not yet a claimed material</h3><p class="hydrogen-boundary-copy">This is ongoing discovery research. CNMP is not claiming an ambient-pressure, high-temperature hydride superconductor. Machine learning accelerates the search, but every promising candidate still requires quantum-mechanical validation and, ultimately, experimental synthesis and measurement.</p></div></div></section><section class="hydrogen-technical"><div class="hydrogen-inner hydrogen-technical-grid"><div><p class="hydrogen-kicker">Methods &amp; Terms</p><h3 class="hydrogen-heading">How the search is judged</h3></div><div class="hydrogen-definition-list"><div class="hydrogen-definition-row"><span class="hydrogen-term">Chemical precompression</span><span class="hydrogen-definition">A host element or framework brings hydrogen atoms closer together chemically, reducing the external pressure needed to form a metallic network.</span></div><div class="hydrogen-definition-row"><span class="hydrogen-term">ML interatomic potential</span><span class="hydrogen-definition">A model trained on quantum-mechanical energies and forces that enables large-scale structural searches while retaining near-first-principles accuracy within its training domain.</span></div><div class="hydrogen-definition-row"><span class="hydrogen-term">Stability tests</span><span class="hydrogen-definition">Formation energies assess thermodynamic competitiveness; phonons test dynamical stability; decompression pathways probe whether a phase may remain kinetically trapped.</span></div><div class="hydrogen-definition-row"><span class="hydrogen-term">Superconducting T<sub>c</sub></span><span class="hydrogen-definition">Electron–phonon coupling and the phonon spectrum are used within conventional superconductivity theory to estimate the transition temperature.</span></div></div></div></section><footer class="hydrogen-context"><div class="hydrogen-inner hydrogen-context-grid"><p class="hydrogen-kicker">Scientific Context</p><div class="hydrogen-context-copy"><p><strong>High-pressure benchmarks and the design principle.</strong> Sulfur hydride reached 203 K near 155 GPa, while lanthanum superhydride approached 250 K at megabar pressure. The chemical-precompression concept motivates the search for host lattices that can stabilize hydrogen-dominant metallic states at lower pressure.</p><div class="hydrogen-context-links"><a class="hydrogen-context-link" href="https://doi.org/10.1038/nature14964" target="_blank" rel="noopener">H<sub>3</sub>S benchmark ↗</a> <a class="hydrogen-context-link" href="https://doi.org/10.1103/PhysRevLett.122.027001" target="_blank" rel="noopener">LaH<sub>10</sub> benchmark ↗</a> <a class="hydrogen-context-link" href="https://doi.org/10.1103/PhysRevLett.92.187002" target="_blank" rel="noopener">Chemical precompression ↗</a></div></div></div></footer></article></div></div></article></main><footer class="footer"><div class="footer__copyright">© 2024 Jaejun Yu</div></footer></div><script defer="defer" src="https://jyusnu.github.io/assets/js/scripts.min.js?v&#x3D;4268bfae06e330d473c424d50f09abda"></script><script>window.publiiThemeMenuConfig={mobileMenuMode:'sidebar',animationSpeed:300,submenuWidth: 'auto',doubleClickTime:500,mobileMenuExpandableSubmenus:true,relatedContainerForOverlayMenuSelector:'.navbar'};</script><script>/*<![CDATA[*/var images=document.querySelectorAll("img[loading]");for(var i=0;i<images.length;i++){if(images[i].complete){images[i].classList.add("is-loaded")}else{images[i].addEventListener("load",function(){this.classList.add("is-loaded")},false)}};/*]]>*/</script><script defer="defer" src="https://jyusnu.github.io/media/plugins/syntaxHighlighter/prism.js"></script></body></html>
